@@ -11,7 +11,9 @@ redirect_from:
 Welcome to my personal page! 
 
 I'm Vardan Barsegyan, a quantitative social scientist in political and educational inequality, analyzing survey and administrative data in R, STATA, and Mplus. 
+
 I'm currently working as a postdoctoral researcher at the [department of sociology at Utrecht University](https://www.uu.nl/en/organisation/sociology) (Utrecht, the Netherlands).
+
 I was born in Armenia in 1990, grew up in Russia, living in the Netherlands since 2016.
 
 
