@@ -12,7 +12,8 @@ author_profile: true
 
 Data
 ======
-<ul> {% for post in site.data %}
+<ul> {% for post in site.resources %}
+   {% include archive-single-cv.html %}
   {% endfor %} </ul>
 
 
