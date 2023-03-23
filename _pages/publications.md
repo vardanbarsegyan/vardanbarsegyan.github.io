@@ -1,9 +1,11 @@
 ---
-permalink: /_pages/publications.md
+permalink: /_pages/publications
 title: "Publications"
 excerpt: "Publications"
 author_profile: true
-
+redirect_from: 
+  - /_pages/publications/
+  - /publications.md
 ---
 
 
