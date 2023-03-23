@@ -2,12 +2,19 @@
 layout: archive
 title: "Resources"
 permalink: /resources/
-title: "Resources"
 author_profile: true
 ---
 
-
+Data 1
+======
 {% include base_path %}
+
+{% for post in site.resources reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
+
+
 
 
 Data
