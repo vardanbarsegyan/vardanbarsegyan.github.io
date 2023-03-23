@@ -10,7 +10,7 @@ author_profile: true
 {% include base_path %}
 
 <ul> {% for post in site.data %}
-  {% include archive-single-resources.html %}
+  {% include archive-single-resources.md %}
 {% endfor %} </ul>
 
 
