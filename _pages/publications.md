@@ -1,5 +1,5 @@
 ---
-permalink: /publications/
+permalink: /_pages/publications.md
 title: "Publications"
 excerpt: "Publications"
 author_profile: true
