@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-THIS IS A TEST MESSAGE TO SEE WHETHER IT MATTERS WHAT I CHANGE HERE!
 
 Education
 ======
