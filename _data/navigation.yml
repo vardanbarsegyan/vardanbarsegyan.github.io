@@ -15,5 +15,8 @@ main:
   - title: "CV"
     url: /cv/
     
+  - title: "Downloads"
+    url: /downloads/    
+
   - title: "Resources"
     url: /resources/
