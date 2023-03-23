@@ -6,8 +6,7 @@ author_profile: true
 
 
 <details>
-<summary> Data </summary>
-<br>
+<summary>Data</summary>
   
 ### Data repositories: 
 
@@ -88,8 +87,6 @@ The TwinLife Study (Germany)
 
 <details>
 <summary> Courses </summary>
-<br>
-
 ### Courses 
   
 Regression analysis with nice mathematical explanations and simulations in R: by Cosma Shalizi, 36-401, Modern Regression, Section B. Source: https://www.stat.cmu.edu/~cshalizi/mreg/15/ 
@@ -185,8 +182,6 @@ GESIS Trainings and Summer Schools: https://training.gesis.org/
 
 <details>
 <summary> Journals </summary>
-<br>
-
 ### Sociology: 
 
 Annual Review of Sociology 
@@ -225,9 +220,7 @@ Political Studies Review
 
 
 <details>
-<summary> Professional associations </summary>
-<br>
-  
+<summary> Professional associations </summary>  
 Interuniversity Center for Social Science Theory and Methodology
 
 European Consortium for Sociological Research
@@ -251,6 +244,5 @@ European Political Science Association
 
 <details>
 <summary> Readings </summary>
-<br>
 Theoretical and methodological foundations of the Dutch style sociology: by Gërxhani, de Graaf, and Raub 2022 Handbook of Sociological Science. Contributions to Rigorous Sociology https://www.elgaronline.com/view/book/9781789909432/9781789909432.xml 
 </details>
