@@ -1,9 +1,11 @@
 ---
 title: "Data"
+collection: resources 
+permalink: /_resources/data # or resources
 excerpt: "Data that I used the most for teaching and research"
 collection: resources
 ---
-  
+
 ### Data repositories: 
 
 GESIS Repository
