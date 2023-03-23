@@ -14,9 +14,6 @@ Data 1
 {% endfor %}
 
 
-
-
-
 Data
 ======
 <ul> {% for post in site.resources %}
