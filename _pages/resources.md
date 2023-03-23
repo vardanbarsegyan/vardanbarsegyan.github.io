@@ -12,7 +12,6 @@ author_profile: true
 
 Data
 ======
-
 <ul> {% for post in site.data %}
   {% endfor %} </ul>
 
@@ -20,4 +19,5 @@ Data
 Publications
 ======
   <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %} <! --- here is the problem 
   {% endfor %}</ul>
