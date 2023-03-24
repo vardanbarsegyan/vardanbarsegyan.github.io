@@ -5,15 +5,14 @@ permalink: /resources/data
 excerpt: "Data that I used the most for teaching and research"
 ---
 
-### Data repositories: 
+## Data repositories: 
 
 GESIS Repository
 
 ICPSR - Inter-university Consortium for Political and Social Research
 
 
-
-### General:
+## General:
 
 ESS - European Social Survey 
 
@@ -39,9 +38,8 @@ TrEC - Trajectories in Education and Careers (Russia)
 
 WVS - World Values Survey 
 
- 
 
-### Politics, political behavior and attitudes:
+## Politics, political behavior and attitudes:
 
 ACLED - The Armed Conflict Location & Event Data Project
 
@@ -62,8 +60,7 @@ Life in Transition Survey (2006, 2010, 2016)
 ICCS - International Civic and Citizenship Education Study (2009, 2016)
 
 
-
-### Macro-level data
+## Macro-level data
 
 Democracy Matrix 
 
@@ -71,9 +68,8 @@ ESS Multilevel Data
 
 Varieties of Democracy
 
- 
 
-### Twins and Behavior Genetic Data: 
+## Twins and Behavior Genetic Data: 
 
 The Dutch Twin Registry (Netherlands)
 
