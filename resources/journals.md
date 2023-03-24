@@ -1,4 +1,10 @@
-# Journals
+---
+title: "Journals"
+collection: resources 
+permalink: /resources/journals
+excerpt: "Professional journals"
+--- 
+
 
 ## Sociology: 
 
