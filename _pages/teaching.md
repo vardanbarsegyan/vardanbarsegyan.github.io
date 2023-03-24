@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 
-# Utrecht University
 
+# Utrecht University (2019-2023)
 ## Research master's 
 
 [SaSR03 Methods and Statistics 1: Regression Analysis and its Generalizations, REMA Sociology and Social Research](https://www.uu.nl/en/masters/sociology-and-social-research), instructor (2022-2023)
