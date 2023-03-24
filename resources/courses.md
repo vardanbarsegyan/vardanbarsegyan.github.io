@@ -1,3 +1,10 @@
+---
+title: "Courses"
+collection: resources 
+permalink: /resources/courses
+excerpt: "Courses and Summer Schools"
+---
+
 ## Courses 
   
 Regression analysis with nice mathematical explanations and simulations in R: by Cosma Shalizi, 36-401, Modern Regression, Section B. Source: https://www.stat.cmu.edu/~cshalizi/mreg/15/ 
