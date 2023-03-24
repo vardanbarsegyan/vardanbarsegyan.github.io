@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Resources"
-permalink: /resources/
+permalink: /_resources/
 author_profile: true
 ---
 
@@ -9,17 +9,17 @@ author_profile: true
 ======
 
 
-[Courses](_resources/courses.md)
+[Courses](courses.md)
 ======
 
 
-[Journals](_resources/journals.md) 
+[Journals](journals.md) 
 ======
 
 
-[Associations](_resources/associations.md)  
+[Associations](associations.md)  
 ======
 
 
-[Readings](_resources/readings.md) 
+[Readings](readings.md) 
 ======
