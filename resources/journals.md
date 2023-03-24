@@ -1,10 +1,6 @@
-new
+# Journals
 
-
-
-<details>
-<summary> Journals </summary>
-### Sociology: 
+## Sociology: 
 
 Annual Review of Sociology 
 
@@ -19,7 +15,7 @@ Social Forces
 Research in Social Stratification and Mobility
 
 
-### Political Science:
+## Political Science:
 
 Annual Review of Political Science 
 
@@ -36,6 +32,3 @@ The Journal of Politics
 Political Studies 
 
 Political Studies Review
-  
-</details>
-
