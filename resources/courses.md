@@ -1,7 +1,7 @@
 ---
 title: "Courses"
 collection: resources 
-permalink: /resources/courses
+permalink: /resources/courses.md
 excerpt: "Courses and Summer Schools"
 ---
 
