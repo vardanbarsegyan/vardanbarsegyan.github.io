@@ -5,21 +5,21 @@ permalink: /resources/
 author_profile: true
 ---
 
-Data
+[Data](_resources/data.md)
 ======
 
 
-Courses
+[Courses](_resources/courses.md)
 ======
 
 
-Journals 
+[Journals](_resources/journals.md) 
 ======
 
 
-Associations  
+[Associations](_resources/associations.md)  
 ======
 
 
-Readings  
+[Readings](_resources/readings.md) 
 ======
