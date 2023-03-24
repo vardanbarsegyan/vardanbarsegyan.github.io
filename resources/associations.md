@@ -1,9 +1,5 @@
-new 
+# Professional associations
 
-
-
-<details>
-<summary> Professional associations </summary>  
 Interuniversity Center for Social Science Theory and Methodology
 
 European Consortium for Sociological Research
@@ -20,6 +16,4 @@ American Political Science Association (APSA)
 
 European Sociological Association
 
-European Political Science Association  
-</details>
-
+European Political Science Association
