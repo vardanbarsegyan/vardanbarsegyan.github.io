@@ -1,7 +1,7 @@
 ---
 title: "Data"
 collection: resources 
-permalink: /_resources/data
+permalink: /resources/data
 excerpt: "Data that I used the most for teaching and research"
 ---
 
