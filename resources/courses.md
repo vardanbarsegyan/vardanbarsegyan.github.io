@@ -1,10 +1,4 @@
-new 
-
-
-
-<details>
-<summary> Courses </summary>
-### Courses 
+## Courses 
   
 Regression analysis with nice mathematical explanations and simulations in R: by Cosma Shalizi, 36-401, Modern Regression, Section B. Source: https://www.stat.cmu.edu/~cshalizi/mreg/15/ 
 
@@ -85,13 +79,10 @@ Lavaan-e-learning by Kyle M. Lang. Topics: SEM, factor analysis, multiple groups
 Source: https://github.com/kylelang/lavaan-e-learning 
   
 
-### Summer Schools in Social Sciences and Methods
+## Summer Schools in Social Sciences and Methods
 
 The Utrecht Summer School: https://utrechtsummerschool.nl/   
 
 NethodsNET Methods Excellence Network: https://www.methodsnet.org/home
 
 GESIS Trainings and Summer Schools: https://training.gesis.org/
-
-</details>
-
