@@ -5,7 +5,7 @@ permalink: /resources/
 author_profile: true
 ---
 
-[Data](_resources/data.md)
+[Data](data.md)
 ======
 
 
