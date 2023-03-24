@@ -8,33 +8,33 @@ excerpt: "Professional journals"
 
 ## Sociology: 
 
-Annual Review of Sociology 
+[Annual Review of Sociology](https://www.annualreviews.org/journal/soc) 
 
-American Journal of Sociology 
+[American Journal of Sociology](https://www.journals.uchicago.edu/toc/ajs/current) 
 
-American Sociological Review 
+[American Sociological Review](https://journals.sagepub.com/home/asr) 
 
-European Sociological Review
+[European Sociological Review](https://academic.oup.com/esr)
 
-Social Forces 
+[Social Forces](https://academic.oup.com/sf) 
 
-Research in Social Stratification and Mobility
+[Research in Social Stratification and Mobility](https://www.sciencedirect.com/journal/research-in-social-stratification-and-mobility)
 
 
 ## Political Science:
 
-Annual Review of Political Science 
+[Annual Review of Political Science](https://www.annualreviews.org/journal/polisci) 
 
-American Journal of Political Science 
+[American Journal of Political Science](https://ajps.org/) 
 
-American Political Science Review 
+[American Political Science Review](https://www.cambridge.org/core/journals/american-political-science-review) 
 
-Political Behavior 
+[Political Behavior](https://www.springer.com/journal/11109) 
 
-Electoral Studies 
+[Electoral Studies](https://www.sciencedirect.com/journal/electoral-studies) 
 
-The Journal of Politics
+[The Journal of Politics](https://www.journals.uchicago.edu/toc/jop/current)
 
-Political Studies 
+[Political Studies](https://journals.sagepub.com/home/psx#:~:text=Political%20Studies%20is%20a%20leading,speaks%20to%20the%20whole%20discipline.) 
 
-Political Studies Review
+[Political Studies Review](https://journals.sagepub.com/home/psw)
