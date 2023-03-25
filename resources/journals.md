@@ -14,6 +14,8 @@ excerpt: "Professional journals"
 
 [American Sociological Review](https://journals.sagepub.com/home/asr) 
 
+[Acta Sociologica](https://journals.sagepub.com/home/asj)
+
 [European Sociological Review](https://academic.oup.com/esr)
 
 [Social Forces](https://academic.oup.com/sf) 
@@ -28,6 +30,8 @@ excerpt: "Professional journals"
 [American Journal of Political Science](https://ajps.org/) 
 
 [American Political Science Review](https://www.cambridge.org/core/journals/american-political-science-review) 
+
+[Acta Politica](https://www.palgrave.com/gp/journal/41269)
 
 [Political Behavior](https://www.springer.com/journal/11109) 
 
