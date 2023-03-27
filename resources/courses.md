@@ -76,3 +76,7 @@ The Utrecht Summer School. [Source](https://utrechtsummerschool.nl/  )
 NethodsNET Methods Excellence Network. [Source](https://www.methodsnet.org/home) 
 
 GESIS Trainings and Summer Schools. [Source](https://training.gesis.org/)
+
+## Video
+
+The Journeys of Scholars, interviews with scholars. [Source](https://www.youtube.com/@thejourneysofscholars8820) 
