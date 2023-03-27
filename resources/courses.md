@@ -68,7 +68,8 @@ Bayesian Statistics. Independent readings course on Bayesian statistics with R a
 
 Lavaan-e-learning by Kyle M. Lang. Topics: SEM, factor analysis, multiple groups, mediation, moderation, missing data, model selection. [Source](https://github.com/kylelang/lavaan-e-learning) 
   
-A list of awsone cpurses for Computational Social Science. [Source](https://github.com/gesiscss/awesome-computational-social-science)
+A list of awsone courses for Computational Social Science. [Source](https://github.com/gesiscss/awesome-computational-social-science)
+
 
 ## Summer Schools in Social Sciences and Methods
 
