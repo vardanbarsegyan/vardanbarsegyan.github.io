@@ -7,8 +7,6 @@ author_profile: true
 ---
 
 ## WORKING PAPERS / PREPRINTS
-Barsegyan, V., Knigge, A., & Maas, I. (2022, September 14). Social origin and political participation: does education compensate or reinforce family (dis)advantages? [https://doi.org/10.31235/osf.io/hjf5n](https://doi.org/10.31235/osf.io/hjf5n) (R&R in Acta Politica)
-
 Barsegyan, V., Knigge, A., & Maas, I. (2022, November 16). The effect of education, occupational status, and income on political participation: evidence from identical twins. [https://doi.org/10.31235/osf.io/qp9wm](https://doi.org/10.31235/osf.io/qp9wm) (R&R in European Societies) 
 
 Barsegyan, V., & Maas, I. (2022, October 15). First-generation students’ educational outcomes: a 9-years panel study on the role of parental educational, cultural, and economic capital. [https://doi.org/10.31235/osf.io/wt65s](https://doi.org/10.31235/osf.io/wt65s) (under review in Research in Higher Education)
@@ -16,6 +14,9 @@ Barsegyan, V., & Maas, I. (2022, October 15). First-generation students’ educa
 Barsegyan V., Stienstra K., Knigge A., & Maas I. "Effects of Parental Compensation and Reinforcement on Within-Family Educational Inequality: Comparing Sibling, Non-Identical Twin and Identical Twin Samples". In progress. 
 
 ## PEER-REVIEWED ARTICLES
+
+Barsegyan, V., Knigge, A., & Maas, I. (2022, September 14). Social origin and political participation: does education compensate or reinforce family (dis)advantages? [https://doi.org/10.31235/osf.io/hjf5n](https://doi.org/10.31235/osf.io/hjf5n) (accepted in Acta Politica)
+
 Barsegyan V.M. 2019 [“Models of Career Trajectories of Heads of Russian Regions”](https://www.politstudies.ru/en/article/5553). Polis. Political studies (4): 132-148 (in Russian)
 
 Barsegyan V.M. 2018 [“Political and Research Activity of Young Political Scientist: a Zero-sum Game?”](http://inion.ru/site/assets/files/3895/1.pdf). Political science (4): 258-270 (in Russian)
