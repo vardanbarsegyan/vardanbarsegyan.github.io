@@ -22,6 +22,8 @@ excerpt: "Professional journals"
 
 [Research in Social Stratification and Mobility](https://www.sciencedirect.com/journal/research-in-social-stratification-and-mobility)
 
+[European Societies](https://www.tandfonline.com/journals/REUS20)
+
 
 ## Political Science:
 
