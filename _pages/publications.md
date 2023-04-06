@@ -32,7 +32,8 @@ Barsegyan V.M. 2014. [“Forms and Factors of Youth Political Activism: Classic 
 Barsegyan V.M. 2014. [“Human Capital of Young Social and Political Activists - the Resource Approach.”](https://journals.kantiana.ru/upload/iblock/2ac/Vardan%20Barsegyan,%20153-164.pdf) *Bulletin of the Immanuel Kant Baltic Federal University. Series: The humanities* (12): 153-164 (in Russian)
 
 ## TRANSLATIONS, PEER-REVIEWED
-van der Zeeuw, Alex, Keesman, Laura D., Weenink, Don & Barsegyan, V.M. (2019). [Социологизирование с Р. Коллинзом: интервью об эмоциях, насилии, пространствах внимания и социологии](https://www.socis.isras.ru/files/File/2019/1/van_der_Zeeuw.pdf). *Sotsiologicheskie issledovaniia* (1), (pp. 40-51), (Dutch -> Russian)
+van der Zeeuw, Alex, Keesman, Laura D., Weenink, Don (authors) & Barsegyan, V.M. (transl. from Dutch to Russian) (2019). [Sociologizing with Randall Collins: An Interview about Emotions, Violence, Attention Space and Sociology](https://www.socis.isras.ru/files/File/2019/1/van_der_Zeeuw.pdf). *Sotsiologicheskie issledovaniia* (1), (pp. 40-51). Original publication: Ван Дер Зейу А., Кейсман Л., Вейнинк Д. (авторы), Барсегян В. (трансл. с нидерл. на рус.) (2019) [Социологизирование с Р. Коллинзом: интервью об эмоциях, насилии, пространствах внимания и социологии](https://www.socis.isras.ru/files/File/2019/1/van_der_Zeeuw.pdf). *Социологичексие исследования* (1), (pp. 40-51). 
+
 
 ## PHD THESIS 
 PhD thesis: Barsegyan V.M. 2015 [“Political Activity of Youth as a Channel of Social Mobility in Contemporary Russian Society”](https://www.hse.ru/data/xf/2015/11/09/1078846165/%D0%94%D0%B8%D1%81%D1%81%D0%B5%D1%80%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20%D0%91%D0%B0%D1%80%D1%81%D0%B5%D0%B3%D1%8F%D0%BD.pdf), Moscow, Russia (in Russian)
