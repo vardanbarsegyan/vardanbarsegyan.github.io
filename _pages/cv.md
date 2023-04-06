@@ -5,7 +5,15 @@ permalink: /cv/
 author_profile: true
 ---
 
-to be extended 
+## Work
+
+2023 - current - Researcher, The Research and Documentation Centre (in Dutch: Het Wetenschappelijk Onderzoek- en Documentatiecentrum - WODC), Ministry of Justice and Security, The Hague, the Netherlands
+
+2019 - 2023 - Postdoctoral researcher, Department of Sociology, Utrecht University, the Netherlands 
+
+2016 - 2016 - Assistant professor, Faculty of Social Communication, Moscow State University of Psychology & Education, Moscow, Russia
+
+2013 - 2016 - Head of Department - Department of methodical support of the youth policy, Federal Agency of Youth Affairs, Ministry of Education and Science of Russian Federation, Moscow, Russia
 
 ## Education 
 
@@ -16,10 +24,5 @@ to be extended
 2012 - Specialist in Economics (with distinction), Southern Federal University, Rostov-on-Don, Russia
 
 
-## Work
+to be extended ... 
 
-2019 - current - Postdoctoral researcher, Department of Sociology, Utrecht University, The Netherlands 
-
-2016 - 2016 - Assistant professor, Faculty of Social Communication, Moscow State University of Psychology & Education, Moscow, Russia
-
-2013 - 2016 - Head of Department - Department of methodical support of the youth policy, Federal Agency of Youth Affairs, Ministry of Education and Science of Russian Federation, Moscow, Russia
