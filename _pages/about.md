@@ -12,7 +12,7 @@ Welcome to my personal page!
 
 I'm Vardan Barsegyan, a quantitative social scientist in political inequality, social inequality, and mobility, including voluntary and forced migration. I am analyzing survey and administrative data in R, STATA, and Mplus. 
 
-I'm currently working as a [researcher](https://www.wodc.nl/over-het-wodc/organisatie/medewerkers/vardan-barsegyan) at the Research and Documentation Centre (in Dutch: Het Wetenschappelijk Onderzoek- en Documentatiecentrum - WODC) - the knowledge centre in the field of the Dutch Ministry of Justice and Security. In 2019-2023, I worked as a postdoctoral researcher at the [department of sociology at Utrecht University](https://www.uu.nl/en/organisation/sociology) (Utrecht, the Netherlands).
+I'm currently working as a [scientific researcher](https://www.wodc.nl/over-het-wodc/organisatie/medewerkers/vardan-barsegyan) at the Research and Documentation Centre (in Dutch: Het Wetenschappelijk Onderzoek- en Documentatiecentrum - WODC) - the knowledge centre in the field of the Dutch Ministry of Justice and Security. In 2019-2023, I worked as a postdoctoral researcher at the [department of sociology at Utrecht University](https://www.uu.nl/en/organisation/sociology) (Utrecht, the Netherlands).
 
 I was born in Armenia in 1990, grew up in Russia, living in the Netherlands since 2016.
 
