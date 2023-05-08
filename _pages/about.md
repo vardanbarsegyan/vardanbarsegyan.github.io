@@ -14,7 +14,7 @@ I'm Vardan Barsegyan, a quantitative social scientist in political inequality, s
 
 I'm currently working as a [scientific researcher](https://www.wodc.nl/over-het-wodc/organisatie/medewerkers/vardan-barsegyan) at the Research and Documentation Centre (in Dutch: Het Wetenschappelijk Onderzoek- en Documentatiecentrum - WODC) - the knowledge centre in the field of the Dutch Ministry of Justice and Security. In 2019-2023, I worked as a postdoctoral researcher at the [department of sociology at Utrecht University](https://www.uu.nl/en/organisation/sociology) (Utrecht, the Netherlands).
 
-I have been living in the Netherlands since 2016. I was born in Armenia in 1990 and grew up in Russia. 
+I have been living in the Netherlands since 2016, studied and grew up in Russia, and was born in Armenia in 1990. 
 
 
 My research interests
