@@ -15,7 +15,9 @@ Barsegyan V., Stienstra K., Knigge A., & Maas I. "Effects of Parental Compensati
 
 ## PEER-REVIEWED ARTICLES
 
-Barsegyan, V., Knigge, A., & Maas, I. (2023). [Social origin and political participation: Does education compensate for or reinforce family advantages and disadvantages?](https://link.springer.com/article/10.1057/s41269-023-00296-5) *Acta Politica*. [https://doi.org/10.1057/s41269-023-00296-5](https://doi.org/10.1057/s41269-023-00296-5)
+Vaate, Dagmar Bij de, and Vardan Barsegyan. 2023. “The effect of socioeconomic status and political opportunity structures on protest participation: a multilevel analysis of 17 European countries”. *Mens & Maatschappij*: 98, no. 2 (June 1, 2023): 150–74. https://doi.org/10.5117/MEM2023.2.003.VAAT[https://doi.org/10.5117/MEM2023.2.003.VAAT].
+
+Barsegyan, V., Knigge, A., & Maas, I. 2023. [Social origin and political participation: Does education compensate for or reinforce family advantages and disadvantages?](https://link.springer.com/article/10.1057/s41269-023-00296-5) *Acta Politica*. [https://doi.org/10.1057/s41269-023-00296-5](https://doi.org/10.1057/s41269-023-00296-5)
 
 Barsegyan V.M. 2019 [“Models of Career Trajectories of Heads of Russian Regions”](https://www.politstudies.ru/en/article/5553). *Polis. Political studies* (4): 132-148 (in Russian)
 
