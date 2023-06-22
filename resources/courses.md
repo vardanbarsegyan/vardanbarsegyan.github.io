@@ -70,6 +70,8 @@ Lavaan-e-learning by Kyle M. Lang. Topics: SEM, factor analysis, multiple groups
   
 A list of awsone courses for Computational Social Science. [Source](https://github.com/gesiscss/awesome-computational-social-science)
 
+Causal Inference for The Brave and True. [Link](https://matheusfacure.github.io/python-causality-handbook/landing-page.html)
+
 
 ## Summer Schools in Social Sciences and Methods
 
@@ -78,6 +80,8 @@ The Utrecht Summer School. [Source](https://utrechtsummerschool.nl/  )
 NethodsNET Methods Excellence Network. [Source](https://www.methodsnet.org/home) 
 
 GESIS Trainings and Summer Schools. [Source](https://training.gesis.org/)
+
+SICSS-ODISSEI - Summer Institute in Computational Social Science. [Link](https://sicss.io/2023/odissei/)
 
 ## Video
 
