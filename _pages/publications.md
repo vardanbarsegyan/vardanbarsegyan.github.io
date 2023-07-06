@@ -7,7 +7,6 @@ author_profile: true
 ---
 
 ## WORKING PAPERS / PREPRINTS
-Barsegyan, V., Knigge, A., & Maas, I. (2022, November 16). The effect of education, occupational status, and income on political participation: evidence from identical twins. [https://doi.org/10.31235/osf.io/qp9wm](https://doi.org/10.31235/osf.io/qp9wm) (R&R in European Societies). 
 
 Barsegyan, V., & Maas, I. (2022, October 15). First-generation students’ educational outcomes: a 9-years panel study on the role of parental educational, cultural, and economic capital. [https://doi.org/10.31235/osf.io/wt65s](https://doi.org/10.31235/osf.io/wt65s) (under rewiew in Research in Social Stratification and Mobility - RSSM).
 
