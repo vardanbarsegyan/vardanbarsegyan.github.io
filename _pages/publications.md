@@ -12,7 +12,7 @@ Barsegyan, V., & Maas, I. (2022, October 15). First-generation students’ educa
 
 Barsegyan V., Stienstra K., Knigge A., & Maas I. "Effects of Parental Compensation and Reinforcement on Within-Family Educational Inequality: Comparing Sibling, Non-Identical Twin and Identical Twin Samples". In progress. 
 
-The Index of Political Inequality. [Map](publications/ipi_map_15.html)
+The Index of Political Inequality. [View the IPI Map](../publications/ipi_map_15.html)
 
 ## PEER-REVIEWED ARTICLES
 
