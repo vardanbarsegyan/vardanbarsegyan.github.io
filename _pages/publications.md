@@ -12,6 +12,8 @@ Barsegyan, V., & Maas, I. (2022, October 15). First-generation students’ educa
 
 Barsegyan V., Stienstra K., Knigge A., & Maas I. "Effects of Parental Compensation and Reinforcement on Within-Family Educational Inequality: Comparing Sibling, Non-Identical Twin and Identical Twin Samples". In progress. 
 
+The Index of Political Inequality. [Map:](vardanbarsegyan.github.io/publications/ipi_map_15.html)
+
 ## PEER-REVIEWED ARTICLES
 
 Bij de Vaate D., Barsegyan V. 2023. “The effect of socioeconomic status and political opportunity structures on protest participation: a multilevel analysis of 17 European countries”. *Mens & Maatschappij*: 98, no. 2 (June 1, 2023): 150–74 (in Dutch). [https://doi.org/10.5117/MEM2023.2.003.VAAT](https://doi.org/10.5117/MEM2023.2.003.VAAT).
