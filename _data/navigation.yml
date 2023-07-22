@@ -11,6 +11,9 @@ main:
         
   - title: "Societal Impact"
     url: /impact/
+
+  - title: "Inequality Index"
+    url: /ipi_index/
     
   - title: "CV"
     url: /cv/
@@ -21,6 +24,5 @@ main:
   - title: "Resources"
     url: /resources/
 
-  - title: "Inequality Index"
-    url: /ipi_index/
+
 
