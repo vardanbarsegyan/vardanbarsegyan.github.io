@@ -5,6 +5,9 @@ permalink: /talks/
 author_profile: true
 ---
 
+### 2023
+- Barsegyan Vardan. "A New Index of Political Inequality (IPI): a joint effect of social characteristics of people on political participation - a cross-national longitudinal study 1980-2022" [World map](../publications/ipi_world_red_0.13.html), [Europe map](../publications/ipi_EU_red_0.4.html). [Presentation, ESRA, 2023, Milan, Italy](../publications/V_Barsegyan_Pres_IPI_ESRA_Milan_230719.pdf).
+
 ### 2022
 -	Barsegyan Vardan & Ineke Maas "Educational performance and dropout of first-generation students in Russia: the role of parental involvement and cultural capital", Poster presentation, the European Consortium of Sociological Research (ECSR) Annual Conference, University of Amsterdam, Amsterdam, the Netherlands, July 6-8, 2022.
 
