@@ -12,7 +12,7 @@ Barsegyan, V., & Maas, I. (2022, October 15). First-generation students’ educa
 
 Barsegyan V., Stienstra K., Knigge A., & Maas I. "Effects of Parental Compensation and Reinforcement on Within-Family Educational Inequality: Comparing Sibling, Non-Identical Twin and Identical Twin Samples". In progress. 
 
-A New Index of Political Inequality (IPI): a joint effect of social characteristics of people on political participation - a cross-national longitudinal study 1980-2022 [World map](../publications/ipi_world_red_1.html), [Europe map](../publications/ipi_EU_red_1.html). [Presentation, ESRA, 2023, Milan, Italy](../publications/V_Barsegyan_Pres_IPI_ESRA_Milan_230719.pdf).
+A New Index of Political Inequality (IPI): a joint effect of social characteristics of people on political participation - a cross-national longitudinal study 1980-2022 [World map](../publications/ipi_world_red_0.13.html), [Europe map](../publications/ipi_EU_red_0.4.html). [Presentation, ESRA, 2023, Milan, Italy](../publications/V_Barsegyan_Pres_IPI_ESRA_Milan_230719.pdf).
 
 ## PEER-REVIEWED ARTICLES
 
