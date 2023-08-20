@@ -13,7 +13,7 @@ name                     : &name "Vardan Barsegyan"
 description              : &description "Welcome to my personal web-site"
 url                      : https://vardanbarsegyan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Vardan2021/vardanbarsegyan.github.io"
+repository               : "vardanbarsegyan/vardanbarsegyan.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Vardan Barsegyan"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "Social science researcher, PhD"
   location         : "Amsterdam, the Netherlands"
   employer         :
