@@ -8,11 +8,15 @@ author_profile: true
 
 ## Working papers / Preprints 
 
+1. Barsegyan, V. (2023, August 18). A New Index of Political Participation Inequality (IPPI): a Joint Effect of Social Characteristics on Political Participation - a Cross-National Longitudinal Study 1980-2022. [https://doi.org/10.31235/osf.io/3gfes](https://doi.org/10.31235/osf.io/3gfes)  
+[Presentation, ESRA, 2023, Milan, Italy](../publications/V_Barsegyan_Pres_IPI_ESRA_Milan_230719.pdf).  
+[World map](../publications/ipi_world_red_0.13.html),  
+[Europe map](../publications/ipi_EU_red_0.4.html).  
+
 1. Barsegyan, V., & Maas, I. (2022, October 15). First-generation students’ educational outcomes: a 9-years panel study on the role of parental educational, cultural, and economic capital. [https://doi.org/10.31235/osf.io/wt65s](https://doi.org/10.31235/osf.io/wt65s) (under rewiew in Research in Social Stratification and Mobility - RSSM).
 
 1. Barsegyan V., Stienstra K., Knigge A., & Maas I. "Effects of Parental Compensation and Reinforcement on Within-Family Educational Inequality: Comparing Sibling, Non-Identical Twin and Identical Twin Samples". In progress. 
 
-1. A New Index of Political Inequality (IPI): a joint effect of social characteristics of people on political participation - a cross-national longitudinal study 1980-2022 [World map](../publications/ipi_world_red_0.13.html), [Europe map](../publications/ipi_EU_red_0.4.html). [Presentation, ESRA, 2023, Milan, Italy](../publications/V_Barsegyan_Pres_IPI_ESRA_Milan_230719.pdf).
 
 ## Peer-reviewed articles 
 
