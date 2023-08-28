@@ -72,7 +72,7 @@ A list of awsone courses for Computational Social Science. [Source](https://gith
 
 Causal Inference for The Brave and True. [Link](https://matheusfacure.github.io/python-causality-handbook/landing-page.html)  
 
-Machine learning. link: [http://cs229.stanford.edu](http://cs229.stanford.edu)
+Machine learning. Link: [http://cs229.stanford.edu](http://cs229.stanford.edu)
 
 ## Summer Schools in Social Sciences and Methods
 
