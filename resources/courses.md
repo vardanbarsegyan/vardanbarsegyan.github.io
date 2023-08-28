@@ -70,8 +70,9 @@ Lavaan-e-learning by Kyle M. Lang. Topics: SEM, factor analysis, multiple groups
   
 A list of awsone courses for Computational Social Science. [Source](https://github.com/gesiscss/awesome-computational-social-science)
 
-Causal Inference for The Brave and True. [Link](https://matheusfacure.github.io/python-causality-handbook/landing-page.html)
+Causal Inference for The Brave and True. [Link](https://matheusfacure.github.io/python-causality-handbook/landing-page.html)  
 
+Machine learning. link: [http://cs229.stanford.edu](http://cs229.stanford.edu)
 
 ## Summer Schools in Social Sciences and Methods
 
