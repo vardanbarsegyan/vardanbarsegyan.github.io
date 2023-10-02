@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal page!
+Welcome to my personal page!  
 
 I'm Vardan Barsegyan, a quantitative social scientist in political inequality, social inequality, and mobility, including voluntary and forced migration. I am analyzing survey and administrative data in R, STATA, Python, and Mplus. 
 
