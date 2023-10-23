@@ -67,22 +67,34 @@ Bayesian Statistics. Independent readings course on Bayesian statistics with R a
 
 
 Lavaan-e-learning by Kyle M. Lang. Topics: SEM, factor analysis, multiple groups, mediation, moderation, missing data, model selection. [Source](https://github.com/kylelang/lavaan-e-learning) 
+
   
 A list of awsone courses for Computational Social Science. [Source](https://github.com/gesiscss/awesome-computational-social-science)
 
+
 Causal Inference for The Brave and True. [Link](https://matheusfacure.github.io/python-causality-handbook/landing-page.html)  
 
-Machine learning. Link: [http://cs229.stanford.edu](http://cs229.stanford.edu)
+
+Machine learning. Link: [http://cs229.stanford.edu](http://cs229.stanford.edu)  
+
+
+Survival Analysis in R: [Link](https://www.emilyzabor.com/tutorials/survival_analysis_in_r_tutorial.html)  
+
 
 ## Summer Schools in Social Sciences and Methods
 
+
 The Utrecht Summer School. [Source](https://utrechtsummerschool.nl/  ) 
+
 
 NethodsNET Methods Excellence Network. [Source](https://www.methodsnet.org/home) 
 
+
 GESIS Trainings and Summer Schools. [Source](https://training.gesis.org/)
 
+
 SICSS-ODISSEI - Summer Institute in Computational Social Science. [Link](https://sicss.io/2023/odissei/)
+
 
 ## Video
 
