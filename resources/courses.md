@@ -88,6 +88,9 @@ Machine Learning and Causal Inference by Brigham Frandsen. [Source](https://gith
 Data Visualization Using R for Researchers Who Do Not Use R by Emily Nordmann et al. [Source](https://journals.sagepub.com/doi/full/10.1177/25152459221074654) 
 
 
+A big book on data visualization. [Source](https://visualisingdata.com/book/)
+
+
 ## Summer Schools in Social Sciences and Methods
 
 
