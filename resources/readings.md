@@ -5,7 +5,7 @@ permalink: /resources/readings
 excerpt: "Readings"
 ---
 
-1. Theoretical and methodological foundations of the Dutch style sociology: by Gërxhani, de Graaf, and Raub 2022 Handbook of Sociological Science. Contributions to Rigorous Sociology [https://www.elgaronline.com/view/book/9781789909432/9781789909432.xml](https://www.elgaronline.com/view/book/9781789909432/9781789909432.xml)
+1. Gërxhani, de Graaf, and Raub (2022). [Handbook of Sociological Science. Contributions to Rigorous Sociology] (https://www.elgaronline.com/view/book/9781789909432/9781789909432.xml)
 
 1. [Political Inequality in Rich Democracies](https://www.annualreviews.org/doi/abs/10.1146/annurev-polisci-052521-094617)
 
