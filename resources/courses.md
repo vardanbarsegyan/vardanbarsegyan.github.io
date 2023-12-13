@@ -16,21 +16,14 @@ Data Analysis for Social Science by Elena Llaudet. [Source](https://scholar.harv
 Regression analysis with nice mathematical explanations and simulations in R: by Cosma Shalizi, 36-401, Modern Regression, Section B. [Source](https://www.stat.cmu.edu/~cshalizi/mreg/15/)
 
 
-A great advanced introduction to data analysis (undergraduate):  by Prof. Matthew Blackwell et al. Gov 51: Data Analysis and Politics. [Source](https://gov51.mattblackwell.org/) 
+Advanced introduction to data analysis (undergraduate):  by Prof. Matthew Blackwell et al. Gov 51: Data Analysis and Politics. [Source](https://gov51.mattblackwell.org/) 
 
 
-A great course in statistical inference with videos on YouTube by Gary King et al GOV 2001: Quantitative Social Science Methods I.
+Statistical inference with videos on YouTube by Gary King et al GOV 2001: Quantitative Social Science Methods I.
 [Source 1](https://projects.iq.harvard.edu/gov2001), [Source 2 ](https://www.youtube.com/channel/UCtrwX29xpuWc9y0-0PKrHSQ/videos) 
 
 
-A nice course in multilevel data analysis with R, STATA, and other syntax: by The Centre for Multilevel Modelling at the University of Bristol.
-[Source](http://www.bristol.ac.uk/cmm/learning/online-course/) 
-
-
 Intro to regression analysis with STATA by Richard Williams. [Source](https://www3.nd.edu/~rwilliam/stats3/index.html) 
-
-
-Introduction to Multilevel Modelling by Mairead Shaw and Jessica Kay Flake. [Source](https://www.learn-mlms.com/)
 
 
 Tidy Modeling with R by Max Kuhn And Julia Silge. [Source](https://www.tmwr.org/) 
@@ -48,9 +41,6 @@ Improving Your Statistical Inferences by Daniël Lakens. [Source](https://lakens
 Linear Regression. A Visual Introduction To (Almost) Everything You Should Know by Jared Wilber. [Source](https://mlu-explain.github.io/linear-regression/) 
 
 
-Introduction to Multilevel Modelling by Mairead Shaw and Jessica Kay Flake. [Source](https://www.learn-mlms.com) 
-
-
 Sociology Statistics Reading Group by Brandon Stewart. [Source](https://scholar.princeton.edu/bstewart/sociology-statistics-reading-group) 
 
 
@@ -62,19 +52,49 @@ Statistics 110: Probability by Joe Blitzstein. [Source](https://projects.iq.harv
 
 An Introduction to Political and Social Data Analysis Using R by Thomas M. Holbrook. [Source](https://bookdown.org/tomholbrook12/bookdown-demo/) 
 
-
-Bayesian Statistics. Independent readings course on Bayesian statistics with R and Stan by Andrew Heiss and Meng Ye. [Source](https://bayesf22.classes.andrewheiss.com/)
-
-
-Lavaan-e-learning by Kyle M. Lang. Topics: SEM, factor analysis, multiple groups, mediation, moderation, missing data, model selection. [Source](https://github.com/kylelang/lavaan-e-learning) 
-
   
 A list of awesome courses for Computational Social Science. [Source](https://github.com/gesiscss/awesome-computational-social-science)
 
 
+### Causal inference  
+
 Causal Inference for The Brave and True. [Link](https://matheusfacure.github.io/python-causality-handbook/landing-page.html)  
 
+
+
+### Structural equation modeling  
+
+Lavaan-e-learning by Kyle M. Lang. Topics: SEM, factor analysis, multiple groups, mediation, moderation, missing data, model selection. [Source](https://github.com/kylelang/lavaan-e-learning) 
+
+
+
+
+### Multilevel modeling 
+
+Introduction to Multilevel Modelling by Mairead Shaw and Jessica Kay Flake. [Source](https://www.learn-mlms.com/)
+
+Multilevel data analysis with R, STATA, and other syntax: by The Centre for Multilevel Modelling at the University of Bristol.
+[Source](http://www.bristol.ac.uk/cmm/learning/online-course/) 
+
+
+Introduction to Multilevel Modelling by Mairead Shaw and Jessica Kay Flake. [Source](https://www.learn-mlms.com) 
+
+
+
+
+### Survival analysis / Event History Analysis 
+
 Survival Analysis in R: [Link](https://www.emilyzabor.com/tutorials/survival_analysis_in_r_tutorial.html)  
+
+Survival Analysis in R and STATA by Germán Rodríguez from Princeton: [Link](https://grodri.github.io/survival/index)
+
+Interpretation of interaction effects in Cox regression in STATA: [Site](https://www.pauldickman.com/software/stata/parameterising-interactions/), [Slides](http://pauldickman.com/video/interactions/interactions_stata.pdf) 
+
+
+### Bayesian 
+
+Bayesian Statistics. Independent readings course on Bayesian statistics with R and Stan by Andrew Heiss and Meng Ye. [Source](https://bayesf22.classes.andrewheiss.com/)
+
 
 
 ### Machine learning  
@@ -82,6 +102,7 @@ Survival Analysis in R: [Link](https://www.emilyzabor.com/tutorials/survival_ana
 Machine learning. Link: [http://cs229.stanford.edu](http://cs229.stanford.edu)  
 
 Machine Learning and Causal Inference by Brigham Frandsen. [Source](https://github.com/Mixtape-Sessions/Machine-Learning) 
+
 
 ### Data visualization 
 
