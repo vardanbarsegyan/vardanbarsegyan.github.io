@@ -23,3 +23,7 @@ author_profile: true
 
 [Readings](readings) 
 ======
+
+
+[Fun](fun) 
+======
