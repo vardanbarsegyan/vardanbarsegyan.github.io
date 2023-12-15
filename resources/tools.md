@@ -1,6 +1,6 @@
 ---
-permalink: /downloads/
-title: "Downloads"
+permalink: /tools/
+title: "Tools for research"
 author_profile: true
 ---
 
