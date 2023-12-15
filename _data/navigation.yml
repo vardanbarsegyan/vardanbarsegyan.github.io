@@ -15,14 +15,10 @@ main:
   - title: "Inequality Index"
     url: /ippi_index/
     
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Downloads"
-    url: /downloads/    
-
   - title: "Resources"
     url: /resources/
 
+  - title: "CV"
+    url: /cv/
 
 
