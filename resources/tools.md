@@ -1,7 +1,8 @@
 ---
-permalink: /tools/
-title: "Tools for research"
-author_profile: true
+title: "Tools"
+collection: resources 
+permalink: /resources/tools
+excerpt: "Tools for research"
 ---
 
 Use this tool to conduct literature review: [Literature review tool](https://github.com/Vardan2021/vardan2021.github.io/blob/a391752b534712d504845f562ba47bdb86e59b90/files/lit_rew_tool_220522.xlsx)
