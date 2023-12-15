@@ -5,30 +5,28 @@ permalink: /resources/
 author_profile: true
 ---
 
+# My resources 
+
+[Fun](fun) 
+======
 
 [Tools](tools)
 ======
 
-
-[Data](data)
-======
-
-
-[Courses](courses)
-======
-
-
-[Journals](journals) 
-======
-
+# External resources
 
 [Associations](associations)  
 ======
 
+[Courses](courses)
+======
+
+[Data](data)
+======
+
+[Journals](journals) 
+======
 
 [Readings](readings) 
 ======
 
-
-[Fun](fun) 
-======
