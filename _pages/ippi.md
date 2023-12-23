@@ -4,7 +4,7 @@ title: "Ineqiality index"
 author_profile: true
 ---
 
-## The Index of Political Participation Inequality (IPPI)
+## The Political Voice Inequality Index (PVI-index)
 
 Barsegyan, V. (2023, August 18). 'A New Index of Political Participation Inequality (IPPI): a Joint Effect of Social Characteristics on Political Participation - a Cross-National Longitudinal Study 1980-2022'. [https://doi.org/10.31235/osf.io/3gfes](https://doi.org/10.31235/osf.io/3gfes)
 
