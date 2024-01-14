@@ -103,6 +103,8 @@ Machine learning. Link: [http://cs229.stanford.edu](http://cs229.stanford.edu)
 
 Machine Learning and Causal Inference by Brigham Frandsen. [Source](https://github.com/Mixtape-Sessions/Machine-Learning) 
 
+Machine learning by Professor Yaser Abu-Mostafa, Caltech [Link](https://work.caltech.edu/telecourse)
+
 
 ### Data visualization 
 
