@@ -68,7 +68,6 @@ Lavaan-e-learning by Kyle M. Lang. Topics: SEM, factor analysis, multiple groups
 
 
 
-
 ### Multilevel modeling 
 
 Introduction to Multilevel Modelling by Mairead Shaw and Jessica Kay Flake. [Source](https://www.learn-mlms.com/)
@@ -78,7 +77,6 @@ Multilevel data analysis with R, STATA, and other syntax: by The Centre for Mult
 
 
 Introduction to Multilevel Modelling by Mairead Shaw and Jessica Kay Flake. [Source](https://www.learn-mlms.com) 
-
 
 
 
@@ -99,7 +97,7 @@ Bayesian Statistics. Independent readings course on Bayesian statistics with R a
 
 ### Machine learning  
 
-Machine learning. Link: [http://cs229.stanford.edu](http://cs229.stanford.edu)  
+Machine learning. Link: [http://cs229.stanford.edu](http://cs229.stanford.edu)
 
 Machine Learning and Causal Inference by Brigham Frandsen. [Source](https://github.com/Mixtape-Sessions/Machine-Learning) 
 
@@ -112,6 +110,11 @@ Data Visualization Using R for Researchers Who Do Not Use R by Emily Nordmann et
 
 
 A big book on data visualization. [Source](https://visualisingdata.com/book/)
+
+
+### Sequence analysis 
+
+Sequence analysis society [Link](https://sequenceanalysis.org/softwares/)
 
 
 ## Summer Schools in Social Sciences and Methods
