@@ -19,4 +19,4 @@ excerpt: "Readings"
 
 # Blogs 
 
-1. Statistical Modeling, Causal Inference, and Social Science. [Link] (https://statmodeling.stat.columbia.edu)
+1. [Statistical Modeling, Causal Inference, and Social Science](https://statmodeling.stat.columbia.edu)
