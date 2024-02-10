@@ -4,7 +4,7 @@ title: "Ineqiality index"
 author_profile: true
 ---
 
-## The Political Voice Inequality Index (PVI-index)
+## The Political Voice Inequality Index (PVI-index)  
 
 Barsegyan, V. (2023, August 18). How Biased Is the Voice of People? Introducing The Political Voice Inequality Index (PVI-index). [https://doi.org/10.31235/osf.io/3gfes](https://doi.org/10.31235/osf.io/3gfes)
 
