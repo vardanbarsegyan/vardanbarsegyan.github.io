@@ -19,10 +19,10 @@ I have been living in the Netherlands since 2016, studied and grew up in Russia,
 
 My research interests 
 ======
-I am curious about how social inequality translates into political inequality. More particularly, how political participation of people is shaped by their social origin, income, education, and occupational status. 
+I study how social inequality translates into political inequality. More particularly, how political participation of people is shaped by their social origin, income, education, and occupational status. 
 
-I am also interested in how educational outcomes of students are shaped by their cognitive ability, social (family) origin, and their interplay. For example, I study differences in educational outcomes of first-generation students and continuous-generation students.
+I also study how educational outcomes of students are shaped by their cognitive ability, social (family) origin, and their interplay. For example, I study differences in educational outcomes of first-generation students and continuous-generation students.
 
-Finally, voluntary and forced migration studies form another core component of my research interests. I am studying the causes and consequences of (in)voluntary migration both for the origin and for the host societies.   
+Finally, voluntary and forced migration is another component of my research interests. I study the causes and consequences of (in)voluntary migration both for the origin and for the host societies.   
 
 I mostly use survey and administrative data, including twin-data. I apply a wide range of quantitative methods including structural equation modeling, latent variable analysis, longitudinal, panel, and multilevel analysis, and behavioral genetic methods.
