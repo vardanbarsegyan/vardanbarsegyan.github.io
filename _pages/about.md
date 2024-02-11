@@ -22,6 +22,6 @@ I study how social inequality translates into political inequality. More particu
 
 I also study how educational outcomes of students are shaped by their cognitive ability, social (family) origin, and their interplay. For example, I study differences in educational outcomes of first-generation students and continuous-generation students.
 
-Finally, voluntary and forced migration is another component of my research interests. I study the causes and consequences of (in)voluntary migration both for the origin and for the host societies.   
+Finally, voluntary and forced migration is another component of my research interests. I study the causes and consequences of (in)voluntary migration both for the origin and for the host societies.  
 
 I mostly use survey and administrative data, including twin-data. I apply a wide range of quantitative methods including structural equation modeling, latent variable analysis, longitudinal, panel, and multilevel analysis, and behavioral genetic methods.
