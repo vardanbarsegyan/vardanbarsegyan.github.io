@@ -2,7 +2,6 @@
 title: "Tools"
 collection: resources 
 permalink: /resources/tools
-excerpt: "Tools for research"
 ---
 
 1. [Literature review tool](https://github.com/vardanbarsegyan/vardanbarsegyan.github.io/raw/master/files/lit_rew_tool_220522.xlsx). Use this tool to conduct literature review. 
