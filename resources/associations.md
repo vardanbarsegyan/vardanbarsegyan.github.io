@@ -2,7 +2,6 @@
 title: "Professional associations"
 collection: resources 
 permalink: /resources/associations
-excerpt: "Professional associations"
 ---
 
 
