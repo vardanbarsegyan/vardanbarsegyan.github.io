@@ -2,7 +2,6 @@
 title: "Readings"
 collection: resources 
 permalink: /resources/readings
-excerpt: "Readings"
 ---
 
 # General articles 
