@@ -2,7 +2,6 @@
 title: "Courses"
 collection: resources 
 permalink: /resources/courses
-excerpt: "Courses and Summer Schools"
 ---
 
 ## Courses 
