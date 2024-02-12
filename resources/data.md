@@ -2,7 +2,6 @@
 title: "Data"
 collection: resources 
 permalink: /resources/data
-excerpt: "Data that I used the most for teaching and research"
 ---
 
 ## Data repositories: 
