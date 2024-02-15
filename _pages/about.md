@@ -16,7 +16,7 @@ I'm currently working as a [scientific researcher](https://www.wodc.nl/over-het-
 I have been living in the Netherlands since 2016, studied and grew up in Russia, and I was born in Armenia in 1990. 
 
 
-My research interests 
+My research interests  
 ======
 I study how social inequality translates into political inequality. More particularly, how political participation of people is shaped by their social origin, income, education, and occupational status.  
 
