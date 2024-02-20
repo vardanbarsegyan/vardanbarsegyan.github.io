@@ -10,9 +10,9 @@ author_profile: true
 # Utrecht University (2019-2023)
 ## Research master's 
 
-[SaSR03 Methods and Statistics 1: Regression Analysis and its Generalizations, REMA Sociology and Social Research](https://www.uu.nl/en/masters/sociology-and-social-research), instructor (2022-2023)
+[SaSR03 Methods and Statistics 1: Regression Analysis and its Generalizations, Research  Master's "Sociology and Social Research"](https://www.uu.nl/en/masters/sociology-and-social-research), instructor (2022-2023)
 
-[Research practicum 1: Work-family issues, organizations, and inequality](https://osiris-student.uu.nl/#/onderwijscatalogus/extern/cursus?cursuscode=200400067&taal=en&collegejaar=huidig), REMA Sociology and Social Research, instructor (2022-2023)
+[Research practicum 1: Work-family issues, organizations, and inequality](https://osiris-student.uu.nl/#/onderwijscatalogus/extern/cursus?cursuscode=200400067&taal=en&collegejaar=huidig), Research  Master's "Sociology and Social Research", instructor (2022-2023)
 
 ## Academic master's
 
