@@ -12,7 +12,7 @@ author_profile: true
 [World map](../publications/ipi_world_red_0.13.html),  
 [Europe map](../publications/ipi_EU_red_0.4.html).  
 
-1. Barsegyan, V., & Maas, I. (2022, October 15). First-generation students’ educational outcomes: a 9-years panel study on the role of parental educational, cultural, and economic capital. [https://doi.org/10.31235/osf.io/wt65s](https://doi.org/10.31235/osf.io/wt65s) (under rewiew in Research in Social Stratification and Mobility - RSSM).
+1. Barsegyan, V., & Maas, I. (2022, October 15). First-generation students’ educational outcomes: the role of parental educational, cultural, and economic capital - a 9-years panel study. [https://doi.org/10.31235/osf.io/wt65s](https://doi.org/10.31235/osf.io/wt65s) (under rewiew in Research in Social Stratification and Mobility - RSSM).
 
 1. Barsegyan V., Stienstra K., Knigge A., & Maas I. "Effects of Parental Compensation and Reinforcement on Within-Family Educational Inequality: Comparing Sibling, Non-Identical Twin and Identical Twin Samples". In progress. 
 
