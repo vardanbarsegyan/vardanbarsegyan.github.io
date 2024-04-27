@@ -12,6 +12,8 @@ permalink: /resources/readings
 
 1. Kremakova M. (2023). [Desert island scripts. A mathematics reading list to help bridge the gap between numbers and sociology](https://thesociologicalreview.org/magazine/october-2023/numbers/desert-island-scripts/?fbclid=IwAR1won3urwZz3VbT0rjjOmxo7FY7R-cxARonrd0pcv_1NxqyDF5GVkvgp0M)
 
+1. The Book of Statistical Proofs [link](https://statproofbook.github.io/I/ToC) 
+
 # Migration
 
 1. Fauser, Bada (2024). [The Routledge International Handbook of Transnational Studies](https://www.taylorfrancis.com/books/edit/10.4324/9781003329978/routledge-international-handbook-transnational-studies-margit-fauser-xóchitl-bada?refId=4401311d-4d60-4d99-9ed6-b9a10c1eda55&context=ubx).
