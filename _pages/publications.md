@@ -13,30 +13,30 @@ author_profile: true
 [Europe map](../publications/ipi_EU_red_0.4.html).  
 
 
-1. Barsegyan V., Stienstra K., Knigge A., & Maas I. "Effects of Parental Compensation and Reinforcement on Within-Family Educational Inequality: Comparing Sibling, Non-Identical Twin and Identical Twin Samples". In progress. 
+1. Barsegyan V., Stienstra K., Knigge A., & Maas I. Effects of Parental Compensation and Reinforcement on Within-Family Educational Inequality: Comparing Sibling, Non-Identical Twin and Identical Twin Sample. In progress. 
 
 
 ## Peer-reviewed articles 
 
-1. Barsegyan, V., & Maas, I. 2024. [First-generation students’ educational outcomes: the role of parental educational, cultural, and economic capital - a 9-years panel study](https://doi.org/10.1016/j.rssm.2024.100939). *Research in Social Stratification and Mobility*. [https://doi.org/10.1016/j.rssm.2024.100939](https://doi.org/10.1016/j.rssm.2024.100939). 
+1. Barsegyan, V., & Maas, I. (2024) [First-generation students’ educational outcomes: the role of parental educational, cultural, and economic capital - a 9-years panel study](https://doi.org/10.1016/j.rssm.2024.100939). *Research in Social Stratification and Mobility*. [https://doi.org/10.1016/j.rssm.2024.100939](https://doi.org/10.1016/j.rssm.2024.100939). 
 
-1. Bij de Vaate D., Barsegyan V. 2023. “The effect of socioeconomic status and political opportunity structures on protest participation: a multilevel analysis of 17 European countries”. *Mens & Maatschappij*: 98, no. 2 (June 1, 2023): 150–74 (in Dutch). [https://doi.org/10.5117/MEM2023.2.003.VAAT](https://doi.org/10.5117/MEM2023.2.003.VAAT).
+1. Bij de Vaate D., Barsegyan V. (2023) The effect of socioeconomic status and political opportunity structures on protest participation: a multilevel analysis of 17 European countries. *Mens & Maatschappij*: 98, no. 2 (June 1, 2023): 150–74 (in Dutch). [https://doi.org/10.5117/MEM2023.2.003.VAAT](https://doi.org/10.5117/MEM2023.2.003.VAAT).
 
-1. Barsegyan, V., Knigge, A., & Maas, I. 2023. [Social origin and political participation: Does education compensate for or reinforce family advantages and disadvantages?](https://link.springer.com/article/10.1057/s41269-023-00296-5) *Acta Politica*. [https://doi.org/10.1057/s41269-023-00296-5](https://doi.org/10.1057/s41269-023-00296-5)
+1. Barsegyan, V., Knigge, A., & Maas, I. (2023) [Social origin and political participation: Does education compensate for or reinforce family advantages and disadvantages?](https://link.springer.com/article/10.1057/s41269-023-00296-5) *Acta Politica*. [https://doi.org/10.1057/s41269-023-00296-5](https://doi.org/10.1057/s41269-023-00296-5)
 
-1. Barsegyan V.M. 2019 [“Models of Career Trajectories of Heads of Russian Regions”](https://www.politstudies.ru/en/article/5553). *Polis. Political studies* (4): 132-148 (in Russian)
+1. Barsegyan V.M. (2019) [Models of Career Trajectories of Heads of Russian Regions](https://www.politstudies.ru/en/article/5553). *Polis. Political studies* (4): 132-148 (in Russian)
 
-1. Barsegyan V.M. 2018 [“Political and Research Activity of Young Political Scientist: a Zero-sum Game?”](http://inion.ru/site/assets/files/3895/1.pdf). *Political science* (4): 258-270 (in Russian)
+1. Barsegyan V.M. (2018) [Political and Research Activity of Young Political Scientist: a Zero-sum Game?](http://inion.ru/site/assets/files/3895/1.pdf). *Political science* (4): 258-270 (in Russian)
 
-1. Barsegyan V.M. 2018 [“Administrative Discourse: Structure, Volume, Practices of Production and Legitimation of Texts”](http://jourssa.ru/files/volumes/2018_1/Barsegyan_2018_1.pdf). *Journal of Sociology and Social Anthropology* XXI(1): (in Russian) https://doi.org/10.31119/jssa.2018.21.1.5   
+1. Barsegyan V.M. (2018) [Administrative Discourse: Structure, Volume, Practices of Production and Legitimation of Texts](http://jourssa.ru/files/volumes/2018_1/Barsegyan_2018_1.pdf). *Journal of Sociology and Social Anthropology* XXI(1): (in Russian) https://doi.org/10.31119/jssa.2018.21.1.5   
 
-1. Barsegyan V.M. 2015. [“Intergenerational Social Mobility of Young Political Activists: Level, Intensity, Factors”](http://jourssa.ru/jourssa/article/view/376). *Journal of Sociology and Social Anthropology* XVIII(1): 179-190 (in Russian) 
+1. Barsegyan V.M. (2015) [Intergenerational Social Mobility of Young Political Activists: Level, Intensity, Factors](http://jourssa.ru/jourssa/article/view/376). *Journal of Sociology and Social Anthropology* XVIII(1): 179-190 (in Russian) 
 
-1. Barsegyan V.M. 2014. [“Intergenerational Educational Mobility of Young Social and Political Activists in Modern Russian Society”](https://publications.hse.ru/pubs/share/folder/q3v4lgjraw/138944779.pdf). *Bulletin of Novosibirsk State University. Series: Socio-economic sciences* 14(3): 163-178 (in Russian)
+1. Barsegyan V.M. (2014) [Intergenerational Educational Mobility of Young Social and Political Activists in Modern Russian Society](https://publications.hse.ru/pubs/share/folder/q3v4lgjraw/138944779.pdf). *Bulletin of Novosibirsk State University. Series: Socio-economic sciences* 14(3): 163-178 (in Russian)
 
-1. Barsegyan V.M. 2014. [“Forms and Factors of Youth Political Activism: Classic Concepts and Modern Research.” (Review)](https://publications.hse.ru/pubs/share/folder/emt3rxufjq/138922524.pdf). *Humanitarian and socio-economic sciences* (4): 116-121 (in Russian)
+1. Barsegyan V.M. (2014) [Forms and Factors of Youth Political Activism: Classic Concepts and Modern Research. (Review)](https://publications.hse.ru/pubs/share/folder/emt3rxufjq/138922524.pdf). *Humanitarian and socio-economic sciences* (4): 116-121 (in Russian)
 
-1. Barsegyan V.M. 2014. [“Human Capital of Young Social and Political Activists - the Resource Approach.”](https://journals.kantiana.ru/upload/iblock/2ac/Vardan%20Barsegyan,%20153-164.pdf) *Bulletin of the Immanuel Kant Baltic Federal University. Series: The humanities* (12): 153-164 (in Russian)
+1. Barsegyan V.M. (2014) [Human Capital of Young Social and Political Activists - the Resource Approach.](https://journals.kantiana.ru/upload/iblock/2ac/Vardan%20Barsegyan,%20153-164.pdf) *Bulletin of the Immanuel Kant Baltic Federal University. Series: The humanities* (12): 153-164 (in Russian)
 
 ## Public policy reports 
 1. Noyon S.M., V. Barsegyan, M.E. Vink (2024) [Inzicht in incidenten en misdrijven onder COA-bewoners. Een kwantitatief onderzoek naar de achtergrondkenmerken van betrokkenen](https://repository.wodc.nl/handle/20.500.12832/3361). Cahier 2024-9. WODC, Den Haag, Nederland. [https://repository.wodc.nl/handle/20.500.12832/3361](https://repository.wodc.nl/handle/20.500.12832/3361). 
