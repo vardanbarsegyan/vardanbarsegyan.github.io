@@ -39,9 +39,11 @@ author_profile: true
 1. Barsegyan V.M. 2014. [“Human Capital of Young Social and Political Activists - the Resource Approach.”](https://journals.kantiana.ru/upload/iblock/2ac/Vardan%20Barsegyan,%20153-164.pdf) *Bulletin of the Immanuel Kant Baltic Federal University. Series: The humanities* (12): 153-164 (in Russian)
 
 ## Public policy reports 
+1. Noyon S.M., V. Barsegyan, M.E. Vink (2024) [Inzicht in incidenten en misdrijven onder COA-bewoners. Een kwantitatief onderzoek naar de achtergrondkenmerken van betrokkenen](https://repository.wodc.nl/handle/20.500.12832/3361). Cahier 2024-9. WODC, Den Haag, Nederland. [https://repository.wodc.nl/handle/20.500.12832/3361](https://repository.wodc.nl/handle/20.500.12832/3361). 
+
 1. Otten K., Barsegyan V., Maliepaard M. (2023). De leefsituatie en positie van Oekraïense vluchtelingen. Een eerste scan van de literatuur. WODC. [http://hdl.handle.net/20.500.12832/3311](http://hdl.handle.net/20.500.12832/3311) (in Dutch + summary in English). This is a [Ukranian version](https://repository.wodc.nl/bitstream/handle/20.500.12832/3311/Pobut%20і%20stanoviwe%20ukraїns%27kix%20bіzhencіv-full-text.pdf?sequence=9&isAllowed=y) of the report.
 
-1. Latenko A., Vink M. E., Barsegyan V., Schans D., & van den Braak S. W.. (2023). Incidenten en misdrijven door bewoners van COA- en crisis-noodopvanglocaties 2017-2022. WODC. [http://hdl.handle.net/20.500.12832/3273](http://hdl.handle.net/20.500.12832/3273) (in Dutch + summary in English).  
+1. Latenko A., Vink M. E., Barsegyan V., Schans D., & van den Braak S. W.. (2023). Incidenten en misdrijven door bewoners van COA- en crisis-noodopvanglocaties 2017-2022. Cahier 2023-10. WODC. Den Haag, Nederland. [http://hdl.handle.net/20.500.12832/3273](http://hdl.handle.net/20.500.12832/3273) (in Dutch + summary in English).  
 
 ## Peer-reviewed translations 
 1. van der Zeeuw, Alex, Keesman, Laura D., Weenink, Don (authors) & Barsegyan, V.M. (transl. from Dutch to Russian) (2019). [Sociologizing with Randall Collins: An Interview about Emotions, Violence, Attention Space and Sociology](https://www.socis.isras.ru/files/File/2019/1/van_der_Zeeuw.pdf). *Sotsiologicheskie issledovaniia* (1), (pp. 40-51). Original publication: Ван Дер Зейу А., Кейсман Л., Вейнинк Д. (авторы), Барсегян В. (трансл. с нидерл. на рус.) (2019) [Социологизирование с Р. Коллинзом: интервью об эмоциях, насилии, пространствах внимания и социологии](https://www.socis.isras.ru/files/File/2019/1/van_der_Zeeuw.pdf). *Социологические исследования* (1), (pp. 40-51). 
