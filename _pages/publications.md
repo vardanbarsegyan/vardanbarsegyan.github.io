@@ -39,6 +39,8 @@ author_profile: true
 1. Barsegyan V.M. (2014) [Human Capital of Young Social and Political Activists - the Resource Approach.](https://journals.kantiana.ru/upload/iblock/2ac/Vardan%20Barsegyan,%20153-164.pdf) *Bulletin of the Immanuel Kant Baltic Federal University. Series: The humanities* (12): 153-164 (in Russian)
 
 ## Public policy reports 
+1. Van Enk, B., Negash, S.M., Otten, K.D., Barsegyan, V.M., Noyon, S.M., Maliepaard, M., & Schans, D. (2024). [Oekraïense vluchtelingen in Nederland. Representatieve cijfers over hun welzijn en positieverwerving](https://repository.wodc.nl/bitstream/handle/20.500.12832/3378/Factsheet-2024-02-volledige-tekst.pdf?sequence=1&isAllowed=y). Factsheet 2024-2, WODC, Den Haag, Nederland. 
+
 1. Noyon, S.M., Barsegyan, V.M., Vink, M.E., Pluymaekers, T.P.N. (2024) [Incidenten en misdrijven door bewoners van COA- en crisisnoodopvanglocaties 2017-2023](https://repository.wodc.nl/handle/20.500.12832/3374). Cahier 2024-12. WODC, Den Haag, Nederland. 
 
 1. Noyon S.M., V. Barsegyan, M.E. Vink (2024) [Inzicht in incidenten en misdrijven onder COA-bewoners. Een kwantitatief onderzoek naar de achtergrondkenmerken van betrokkenen](https://repository.wodc.nl/handle/20.500.12832/3361). Cahier 2024-9. WODC, Den Haag, Nederland. [https://repository.wodc.nl/handle/20.500.12832/3361](https://repository.wodc.nl/handle/20.500.12832/3361). 
