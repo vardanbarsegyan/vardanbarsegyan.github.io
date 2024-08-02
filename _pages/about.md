@@ -18,7 +18,7 @@ I was born in Armenia (Soviet Union) in 1990, studied and grew up in Russia. I h
 
 My research interests  
 ======
-I study how social inequality translates into political inequality. More particularly, how political participation of people is shaped by their social origin, income, education, and occupational status.  
+I study how social inequality translates into political inequality. More particularly, how political participation of people is shaped by their social origin, income, education, and occupational status.   
 
 I also study how educational outcomes of students are shaped by their cognitive ability, social (family) origin, and their interplay. For example, I study differences in educational outcomes of first-generation students and continuous-generation students.  
 
