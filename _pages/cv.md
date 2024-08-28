@@ -5,4 +5,4 @@ permalink: /cv/
 author_profile: true
 ---
 
-[Download CV](../files/web_CV_Vardan_Barsegyan_230808_EN.pdf)
+[Download CV](../files/web_CV_Vardan_Barsegyan_240828_EN.pdf)
