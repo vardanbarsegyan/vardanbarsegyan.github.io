@@ -28,15 +28,17 @@ author_profile: true
 
 
 ## Public policy reports 
+1. Barsegyan, V.M., Negash, S.M. (2024). (Niet) langer afhankelijk? De effecten van opvang- en inburgeringsbeleid op de uitstroom uit de bijstand naar werk onder statushouders. In: J.M. Dagevos, M. Maliepaard, M. de Mooij (Reds.). *Met beleid vooruit? Wat betekent het opvang-, inburgerings- en spreidingsbeleid voor ontwikkelingen in de positie en leefsituatie van statushouders?* (pp. 39-61). Cahier 2024-16, WODC, Den Haag, Nederland. (in Dutch with English summary).     
+   
 1.	Van Enk, B., Negash, S.M., Otten, K.D., Barsegyan, V.M., Noyon, S.M., Maliepaard, M., & Schans, D. (2024). Oekraïense vluchtelingen in Nederland. Representatieve cijfers over hun welzijn en positieverwerving. Factsheet 2024-2, WODC, Den Haag, Nederland. (in Dutch and Ukrainian). [https://repository.wodc.nl/handle/20.500.12832/3378](https://repository.wodc.nl/handle/20.500.12832/3378). 
 
-1.	Noyon, S.M., Barsegyan, V.M., Vink, M.E., Pluymaekers, T.P.N. (2024). Incidenten en misdrijven door bewoners van COA- en crisisnoodopvanglocaties 2017-2023. Cahier 2024-12. WODC, Den Haag, Nederland. (in Dutch). [https://repository.wodc.nl/handle/20.500.12832/3374](https://repository.wodc.nl/handle/20.500.12832/3374). 
+1.	Noyon, S.M., Barsegyan, V.M., Vink, M.E., Pluymaekers, T.P.N. (2024). Incidenten en misdrijven door bewoners van COA- en crisisnoodopvanglocaties 2017-2023. Cahier 2024-12. WODC, Den Haag, Nederland. (in Dutch with English summary). [https://repository.wodc.nl/handle/20.500.12832/3374](https://repository.wodc.nl/handle/20.500.12832/3374). 
 
-1.	Noyon S.M., V. Barsegyan, M.E. Vink (2024). Inzicht in incidenten en misdrijven onder COA-bewoners. Een kwantitatief onderzoek naar de achtergrondkenmerken van betrokkenen. Cahier 2024-9. WODC, Den Haag, Nederland. (in Dutch). [https://repository.wodc.nl/handle/20.500.12832/3361](https://repository.wodc.nl/handle/20.500.12832/3361).     
+1.	Noyon S.M., V. Barsegyan, M.E. Vink (2024). Inzicht in incidenten en misdrijven onder COA-bewoners. Een kwantitatief onderzoek naar de achtergrondkenmerken van betrokkenen. Cahier 2024-9. WODC, Den Haag, Nederland. (in Dutch with English summary). [https://repository.wodc.nl/handle/20.500.12832/3361](https://repository.wodc.nl/handle/20.500.12832/3361).     
 
-1.	Otten K., Barsegyan V., Maliepaard M. (2023). De leefsituatie en positie van Oekraïense vluchtelingen. Een eerste scan van de literatuur. WODC. (in Dutch and Ukrainian). [https://repository.wodc.nl/handle/20.500.12832/3311](https://repository.wodc.nl/handle/20.500.12832/3311  ).  
+1.	Otten K., Barsegyan V., Maliepaard M. (2023). De leefsituatie en positie van Oekraïense vluchtelingen. Een eerste scan van de literatuur. WODC. (in Dutch and Ukrainian). [https://repository.wodc.nl/handle/20.500.12832/3311](https://repository.wodc.nl/handle/20.500.12832/3311).  
 
-1.	Latenko A., Vink M. E., Barsegyan V., Schans D., & van den Braak S. W. (2023). Incidenten en misdrijven door bewoners van COA- en crisis-noodopvanglocaties 2017-2022. Cahier 2023-10. WODC. Den Haag, Nederland. (in Dutch and English summary). [http://hdl.handle.net/20.500.12832/3273](http://hdl.handle.net/20.500.12832/3273).
+1.	Latenko A., Vink M. E., Barsegyan V., Schans D., & van den Braak S. W. (2023). Incidenten en misdrijven door bewoners van COA- en crisis-noodopvanglocaties 2017-2022. Cahier 2023-10. WODC. Den Haag, Nederland. (in Dutch with English summary). [http://hdl.handle.net/20.500.12832/3273](http://hdl.handle.net/20.500.12832/3273).
    
 
 ## Peer-reviewed translations 
