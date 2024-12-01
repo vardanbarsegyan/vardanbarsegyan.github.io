@@ -28,7 +28,7 @@ author_profile: true
 
 
 ## Public policy reports 
-1. Barsegyan, V.M. (2024). Hoofdstuk 2: Demografie; Hoofdstuk 7: Sociale contacten en taal; Hoofdstuk 8: Discriminatie en institutioneel vertrouwen. In WODC. *Tijdelijk thuis? De positie van Oekraïense vluchtelingen in Nederland* (pp. 12-17, 43-47, 48-52). Memorandum 2024-1, WODC, Den Haag, Nederland. (in Dutch). [http://hdl.handle.net/20.500.12832/3416](http://hdl.handle.net/20.500.12832/3416).
+1. Barsegyan, V.M. (2024). Hoofdstuk 2: Demografie (met Ben van Enk); Hoofdstuk 7: Sociale contacten en taal; Hoofdstuk 8: Discriminatie en institutioneel vertrouwen. In WODC. *Tijdelijk thuis? De positie van Oekraïense vluchtelingen in Nederland* (pp. 12-17, 43-47, 48-52). Memorandum 2024-1, WODC, Den Haag, Nederland. (in Dutch). [http://hdl.handle.net/20.500.12832/3416](http://hdl.handle.net/20.500.12832/3416).
 
 1. Barsegyan, V.M., Negash, S.M. (2024). (Niet) langer afhankelijk? De effecten van opvang- en inburgeringsbeleid op de uitstroom uit de bijstand naar werk onder statushouders. In: J.M. Dagevos, M. Maliepaard, M. de Mooij (Reds.). *Met beleid vooruit? Wat betekent het opvang-, inburgerings- en spreidingsbeleid voor ontwikkelingen in de positie en leefsituatie van statushouders?* (pp. 39-61). Cahier 2024-16, WODC, Den Haag, Nederland. (in Dutch with English summary). [https://repository.wodc.nl/handle/20.500.12832/3406](https://repository.wodc.nl/handle/20.500.12832/3406).    
    
