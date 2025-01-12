@@ -1,13 +1,11 @@
 ---
 permalink: /
-title: "About me"
+title: "Dear visitor, welcome to my personal page!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-Dear visitor, welcome to my personal page! 
 
 My name is Vardan Barsegyan; I am a sociology researcher (PhD, 2016). I conduct quantitative research in political inequality, social inequality, mobility, voluntary and forced migration. I analyze survey and administrative data in R, STATA, Python, and Mplus.   
 
