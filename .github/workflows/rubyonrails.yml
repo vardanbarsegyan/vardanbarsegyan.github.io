@@ -19,7 +19,7 @@ jobs:
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: 3.4.1 # Match your academicpages Ruby version
+          ruby-version: 3.1 # Match your academicpages Ruby version
           bundler-cache: true
 
       - name: Install dependencies
