@@ -36,7 +36,7 @@ author_profile: true
 
 1.	Noyon, S.M., Barsegyan, V.M., Vink, M.E., Pluymaekers, T.P.N. (2024). Incidenten en misdrijven door bewoners van COA- en crisisnoodopvanglocaties 2017-2023. Den Haag: WODC. Cahier 2024-12 (in Dutch with English summary). [https://repository.wodc.nl/handle/20.500.12832/3374](https://repository.wodc.nl/handle/20.500.12832/3374). 
 
-1.	Noyon S.M., V. Barsegyan, M.E. Vink (2024). Inzicht in incidenten en misdrijven onder COA-bewoners. Een kwantitatief onderzoek naar de achtergrondkenmerken van betrokkenen. Cahier 2024-9. WODC, Den Haag, Nederland. (in Dutch with English summary). [https://repository.wodc.nl/handle/20.500.12832/3361](https://repository.wodc.nl/handle/20.500.12832/3361).     
+1.	Noyon S.M., V. Barsegyan, M.E. Vink (2024). Inzicht in incidenten en misdrijven onder COA-bewoners. Een kwantitatief onderzoek naar de achtergrondkenmerken van betrokkenen. Den Haag: WODC. Cahier 2024-9 (in Dutch with English summary). [https://repository.wodc.nl/handle/20.500.12832/3361](https://repository.wodc.nl/handle/20.500.12832/3361).     
 
 1.	Otten K., Barsegyan V., Maliepaard M. (2023). De leefsituatie en positie van Oekraïense vluchtelingen. Een eerste scan van de literatuur. WODC. (in Dutch and Ukrainian). [https://repository.wodc.nl/handle/20.500.12832/3311](https://repository.wodc.nl/handle/20.500.12832/3311).  
 
