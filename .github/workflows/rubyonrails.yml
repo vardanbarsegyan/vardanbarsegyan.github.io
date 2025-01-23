@@ -1,0 +1,36 @@
+name: Build Academic Page
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 3.4.1 # Match your academicpages Ruby version
+          bundler-cache: true
+
+      - name: Install dependencies
+        run: |
+          bundle install
+
+      - name: Build site
+        run: |
+          bundle exec jekyll build
+
+      - name: Deploy site (if applicable)
+        if: github.event_name == 'push'
+        run: |
+          echo "Deployment step (add your custom deploy commands if needed)"
