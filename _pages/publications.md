@@ -40,7 +40,7 @@ author_profile: true
 
 1.	Otten K., Barsegyan V., Maliepaard M. (2023). De leefsituatie en positie van Oekraïense vluchtelingen. Een eerste scan van de literatuur. WODC. (in Dutch and Ukrainian). [https://repository.wodc.nl/handle/20.500.12832/3311](https://repository.wodc.nl/handle/20.500.12832/3311).  
 
-1.	Latenko A., Vink M. E., Barsegyan V., Schans D., & van den Braak S. W. (2023). Incidenten en misdrijven door bewoners van COA- en crisis-noodopvanglocaties 2017-2022. Cahier 2023-10. WODC. Den Haag, Nederland. (in Dutch with English summary). [http://hdl.handle.net/20.500.12832/3273](http://hdl.handle.net/20.500.12832/3273).
+1.	Latenko A., Vink M. E., Barsegyan V., Schans D., & van den Braak S. W. (2023). Incidenten en misdrijven door bewoners van COA- en crisis-noodopvanglocaties 2017-2022. Den Haag: WODC. Cahier 2023-10 (in Dutch with English summary). [http://hdl.handle.net/20.500.12832/3273](http://hdl.handle.net/20.500.12832/3273).
    
 
 ## Peer-reviewed translations 
