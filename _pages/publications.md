@@ -10,7 +10,7 @@ author_profile: true
 
 1.	Barsegyan, V., Knigge, A., & Maas, I. (2023). Social origin and political participation: Does education compensate for or reinforce family advantages and disadvantages? *Acta Politica*, 59, 340-363. [https://doi.org/10.1057/s41269-023-00296-5](https://doi.org/10.1057/s41269-023-00296-5). 
 
-1.	Bij de Vaate D., Barsegyan V. (2023). The effect of socioeconomic status and political opportunity structures on protest participation: a multilevel analysis of 17 European countries. *Mens & Maatschappij*, 98(2), 150–74 (in Dutch). [https://doi.org/10.5117/MEM2023.2.003.VAAT](https://doi.org/10.5117/MEM2023.2.003.VAAT).
+1.	Bij de Vaate D., Barsegyan V. (2023). The effect of socioeconomic status and political opportunity structures on protest participation: a multilevel analysis of 17 European countries. *Mens & Maatschappij*, 98(2), 150–74 (in Dutch). [https://doi.org/10.5117/MEM2023.2.003.VAAT](https://doi.org/10.5117/MEM2023.2.003.VAAT). 
 
 1.	Barsegyan V.M. (2019). Models of Career Trajectories of Heads of Russian Regions. *Polis. Political studies*, 4, 132-148. (in Russian). [https://doi.org/10.17976/jpps/2019.04.10](https://doi.org/10.17976/jpps/2019.04.10). 
 
