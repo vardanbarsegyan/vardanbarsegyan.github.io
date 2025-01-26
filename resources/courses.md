@@ -116,7 +116,7 @@ A big book on data visualization. [Source](https://visualisingdata.com/book/)
 Sequence analysis society [Link](https://sequenceanalysis.org/softwares/)
 
 
-## Summer Schools in Social Sciences and Methods
+## Summer Schools
 
 
 The Utrecht Summer School. [Source](https://utrechtsummerschool.nl/  ) 
