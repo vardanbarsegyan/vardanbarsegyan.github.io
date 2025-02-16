@@ -140,3 +140,6 @@ The Journeys of Scholars, interviews with scholars. [Source](https://www.youtube
 ### Math 
 
 Introduction to Mathematical Thinking. UC Berkeley. [Link](http://imt-decal.org)
+
+### Sociology 
+sociology un UC Berkeley. [Link](https://sociology.berkeley.edu/fall-2024)
