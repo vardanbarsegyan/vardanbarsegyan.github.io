@@ -5,6 +5,12 @@ permalink: /talks/
 author_profile: true
 ---
 
+### 2025
+
+- **Barsegyan, V.**, Negash, S.M. “(No)longer dependent ...”. ECSR, Cologn: University of Cologne, September 2-6, 2025.[to be added].  
+- **Barsegyan, V.**, Negash, S.M. “(Niet)langer afhankelijk ...”. Deg van de Sociologie, Amsterdam: Vrije Universiteit Amsterdam, June 19, 2025.[to be added].  
+
+
 ### 2024
 - **Barsegyan, V.**, **Negash, S.M.** “Effecten van beleid op de transities uit en naar bijstand onder statushouders”. Seminar “Arbeidsparticipatie van vluchtelingen in Nederland: Bedoelde en onbedoelde resultaten van beleid” van de Nederlandse Vereniging voor Demografie. Den Haag: Centraal Bureau voor de Statistiek, 18 november 2024.
 - **Barsegyan, V.**, Negash, S.M. “De effecten van opvang- en inburgeringsbeleid op de uitstroom uit de bijstand naar werk onder statushouders”. Publieksbijeenkomst “Longitudinale Onderzoek Cohort Statushouders (LOCS)” van CBS, AenM, SZW en WODC. Den Haag: Ministerie van Asiel en Migratie, 5 november 2024.
