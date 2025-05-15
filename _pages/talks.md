@@ -7,7 +7,7 @@ author_profile: true
 
 ### 2025
 
-- **Barsegyan, V.**, Negash, S.M. “(No)longer dependent ...”. ECSR, Cologn: University of Cologne, September 2-6, 2025.[to be added].  
+- **Barsegyan, V.**, Negash, S.M. “(No)longer dependent ...”. ECSR, Cologne: University of Cologne, September 2-6, 2025.[to be added].  
 - **Barsegyan, V.**, Negash, S.M. “(Niet)langer afhankelijk ...”. Deg van de Sociologie, Amsterdam: Vrije Universiteit Amsterdam, June 19, 2025.[to be added].  
 
 
