@@ -7,8 +7,8 @@ author_profile: true
 
 ### 2025
 
-- **Barsegyan, V.**, Negash, S.M. “(No)Longer Dependent: the Impact of Reception and Civic Integration Policies on Social Assistance Dependency Among Refugees in the Netherlands”. Session presentation at the European Consortium of Sociological Research (ECSR) Annual Conference. Cologne: University of Cologne, September 2-6, 2025. [Scheduled for presentation].  
-- **Barsegyan, V.**, Negash, S.M. “(Niet) langer afhankelijk? De effecten van opvang- en inburgeringsbeleid op de uitstroom uit de bijstand naar werk onder statushouders”. Congres, Dag van de Sociologie, Amsterdam: Vrije Universiteit Amsterdam, June 19, 2025. [Scheduled for presentation].  
+- [upcoming] **Barsegyan, V.**, Negash, S.M. “(No)Longer Dependent: the Impact of Reception and Civic Integration Policies on Social Assistance Dependency Among Refugees in the Netherlands”. Session presentation at the European Consortium of Sociological Research (ECSR) Annual Conference. Cologne: University of Cologne, September 2-6, 2025.  
+- [upcoming] **Barsegyan, V.**, Negash, S.M. “(Niet) langer afhankelijk? De effecten van opvang- en inburgeringsbeleid op de uitstroom uit de bijstand naar werk onder statushouders”. Congres, Dag van de Sociologie, Amsterdam: Vrije Universiteit Amsterdam, June 19, 2025.  
 
 
 ### 2024
