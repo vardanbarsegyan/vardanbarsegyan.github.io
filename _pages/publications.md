@@ -50,6 +50,6 @@ author_profile: true
 Barsegyan V.M. (2015). Political Activity of Youth as a Channel of Social Mobility in Contemporary Russian Society, Moscow, Russia (in Russian). [https://id.hse.ru/sci/diss/165404679](https://id.hse.ru/sci/diss/165404679).   
 
 ## Working papers / Preprints 
-1.	Barsegyan, V.M. (2023). How Biased Is the Voice of People? Introducing The Political Voice Inequality Index (PVI-index). [https://doi.org/10.31235/osf.io/3gfes and https://www.vardanbarsegyan.com/ippi_index/](https://doi.org/10.31235/osf.io/3gfes and https://www.vardanbarsegyan.com/ippi_index/). In progress.
+1.	Barsegyan, V.M. (2023). How Biased Is the Voice of People? Introducing The Political Voice Inequality Index (PVI-index). [https://doi.org/10.31235/osf.io/3gfes](https://doi.org/10.31235/osf.io/3gfes ) and [https://www.vardanbarsegyan.com/ippi_index/](https://www.vardanbarsegyan.com/ippi_index/). In progress.
 
 1.	Barsegyan V.M., Stienstra K., Knigge A., & Maas I. “Effects of Parental Compensation and Reinforcement on Within-Family Educational Inequality: Comparing Sibling, Non-Identical Twin and Identical Twin Samples”. In progress.
