@@ -7,7 +7,7 @@ author_profile: true
 ## ANTI-WAR STATEMENT AGAINST THE RUSSIAN INVASION OF UKRAINE
 With some Russian and Russian speaking sociologists, we initiated an anti-war statement against the Russian invasion of Ukraine. The statement is published here.
 
-[The statement](https://docs.google.com/forms/d/e/1FAIpQLSdhX7m_c2SEiEqbTAcnz2DKba6WM-kBdo2RboQgklwP7hzBYQ/viewform) is written originally in Russian. This is its English translation: 
+[The statement](https://docs.google.com/forms/d/e/1FAIpQLSdhX7m_c2SEiEqbTAcnz2DKba6WM-kBdo2RboQgklwP7hzBYQ/viewform) is originally written in Russian. This is an English translation: 
 
 
 Statement by Russian and Russian-speaking sociologists and other social scientists on Russian military invasion of Ukraine
