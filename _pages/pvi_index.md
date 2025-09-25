@@ -1,5 +1,5 @@
 ---
-permalink: /ippi_index/
+permalink: /pvi_index/
 title: "Ineqiality index"
 author_profile: true
 ---
