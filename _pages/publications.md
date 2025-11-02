@@ -58,7 +58,7 @@ author_profile: true
 Barsegyan V.M. (2015). Political Activity of Youth as a Channel of Social Mobility in Contemporary Russian Society, Moscow, Russia (in Russian). [https://id.hse.ru/sci/diss/165404679](https://id.hse.ru/sci/diss/165404679).
 
 ## Working papers / Preprints 
-1. Barsegyan, V., & Negash, S. (2025, August 1).  (No) Longer Dependent: the Impact of Reception and Civic Integration Policies on Social Assistance Dependency Among Refugees in the Netherlands. https://doi.org/10.31219/osf.io/ecjsn_v1. In progress.
+1. Barsegyan, V., & Negash, S. (2025, August 1).  (No) Longer Dependent: the Impact of Reception and Civic Integration Policies on Social Assistance Dependency Among Refugees in the Netherlands. [https://doi.org/10.31219/osf.io/ecjsn_v1](https://doi.org/10.31219/osf.io/ecjsn_v1). In progress.
 
 1.	Barsegyan, V.M. (2023). How Biased Is the Voice of People? Introducing The Political Voice Inequality Index (PVI-index). [https://doi.org/10.31235/osf.io/3gfes](https://doi.org/10.31235/osf.io/3gfes) and [https://www.vardanbarsegyan.com/ippi_index/](https://www.vardanbarsegyan.com/ippi_index/). In progress.
 
