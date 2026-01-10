@@ -5,7 +5,7 @@ permalink: /resources/
 author_profile: true
 ---
 
-# My resources 
+# My resources  
 
 [Fun](fun) 
 ======
