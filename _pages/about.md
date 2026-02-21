@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Vardan Barsegyan; I am a sociology researcher (PhD, 2016). I conduct quantitative research in political inequality, social inequality, social stratification and mobility, voluntary and forced migration. I analyze survey and administrative data in R, STATA, Python, and Mplus.   
+My name is Vardan Barsegyan; I am a sociology researcher (PhD, 2016). I conduct quantitative research in social inequality, social stratification and mobility, voluntary and forced migration, and political inequality. I analyze survey and administrative data in R, STATA, Python, and Mplus.   
 
 I am currently working as a [social science researcher](https://www.wodc.nl/personen/personen/vardan-barsegyan) at the WODC Research and Data Centre - the knowledge centre in the field of justice and security in the Netherlands. In 2019-2023, I worked as a postdoctoral researcher at the [department of sociology at Utrecht University](https://www.uu.nl/en/organisation/sociology) (Utrecht, the Netherlands). 
 
