@@ -5,6 +5,10 @@ permalink: /talks/
 author_profile: true
 ---
 
+### 2026 
+- Barsegyan, V. Hidden Stories: Long-Term Status Acquisition and Vulnerability of Syrian Dutch Citizens – A Latent Transition Analysis of 10-Year Panel Data. Spring Meeting of the RC28 – Social Stratification and Mobility (ISA) at Pablo de Olavide Public University, Seville, Spain. May 20-22, 2026. [upcoming]. 
+- Noyon, S., Barsegyan, V. Vink, M., Pluymaekers, T. The role of group composition in offending behavior of residents of reception centers for asylum seekers and refugees in the Netherlands. CINETS 2026: Crimmigration in an Age of Authoritarian Drift. Leiden University, Leiden, the Netherlands. July 5-7, 2026. [upcoming].
+
 ### 2025
 - Barsegyan, V. How Biased Is the Voice of People? Introducing The Political Voice Inequality Index (The R-Index). Poster presentation at the ODISSEI Conference for Computational Social Science. Utrecht. November 4, 2025.
 - **Barsegyan, V.**, Negash, S.M. “(No)Longer Dependent: the Impact of Reception and Civic Integration Policies on Social Assistance Dependency Among Refugees in the Netherlands”. Session presentation at the European Consortium of Sociological Research (ECSR) Annual Conference. Cologne: University of Cologne, September 2-6, 2025.   
