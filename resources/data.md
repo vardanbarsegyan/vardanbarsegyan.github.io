@@ -20,7 +20,9 @@ permalink: /resources/data
 
 [GSS - General Social Survey (US)](https://gss.norc.org/)
 
-[INID (Russia)](https://www.data-in.ru/)
+[AmericasBarometer](https://www.vanderbilt.edu/lapop/about-americasbarometer.php)
+
+[INID (Russia)](https://data.rcsi.science)
 
 [ISSP - The International Social Survey Programm](https://issp.org/)
 
