@@ -15,18 +15,18 @@ author_profile: true
 
 # External resources
 
-[Associations](associations)  
+[Data](data)
+======
+
+[Readings](readings) 
 ======
 
 [Courses](courses)
 ======
 
-[Data](data)
-======
-
 [Journals](journals) 
 ======
 
-[Readings](readings) 
+[Associations](associations)  
 ======
 
