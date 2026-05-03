@@ -43,3 +43,20 @@ permalink: /resources/journals
 [Political Studies](https://journals.sagepub.com/home/psx#:~:text=Political%20Studies%20is%20a%20leading,speaks%20to%20the%20whole%20discipline.) 
 
 [Political Studies Review](https://journals.sagepub.com/home/psw)
+
+
+## Migration:
+
+[International Migration Review](https://journals.sagepub.com/home/MRX)
+
+[Journal of Ethnic and Migration Studies](https://www.tandfonline.com/journals/cjms20)
+
+[Comparative Migration Studies](https://link.springer.com/journal/40878)
+
+[Journal of International Migration and Integration](https://link.springer.com/journal/12134)
+
+[Journal of Refugee Studies](https://academic.oup.com/jrs)
+
+
+
+
