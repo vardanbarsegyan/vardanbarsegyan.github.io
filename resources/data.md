@@ -38,6 +38,7 @@ permalink: /resources/data
 
 [WVS - World Values Survey](https://www.worldvaluessurvey.org/wvs.jsp) 
 
+[LiTS - Life in Transition Survey](https://www.ebrd.com/home/what-we-do/office-of-the-chief-economist/lits/life-in-transition-survey-data.html)
 
 ## Politics, political behavior and attitudes:
 
