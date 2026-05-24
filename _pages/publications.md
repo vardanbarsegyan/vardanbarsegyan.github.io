@@ -17,9 +17,9 @@ author_profile: true
 
 1.	Barsegyan V.M. (2018). Political and Research Activity of Young Political Scientist: a Zero-sum Game? *Political science*, 4, 258-270. [https://doi.org/10.31249/poln/2018.04.13](https://doi.org/10.31249/poln/2018.04.13).
 
-1.	Barsegyan V.M. (2018). Administrative Discourse: Structure, Volume, Practices of Production and Legitimation of Texts. *Journal of Sociology and Social Anthropology*, 21(1), 107-135. [http://jourssa.ru/jourssa/article/view/142](http://jourssa.ru/jourssa/article/view/142).
+1.	Barsegyan V.M. (2018). Administrative Discourse: Structure, Volume, Practices of Production and Legitimation of Texts. *Journal of Sociology and Social Anthropology*, 21(1), 107-135. [https://www.jourssa.ru/files/volumes/2018_1/Barsegyan_2018_1.pdf](https://www.jourssa.ru/files/volumes/2018_1/Barsegyan_2018_1.pdf)
 
-1.	Barsegyan V.M. (2015). Intergenerational Social Mobility of Young Political Activists: Level, Intensity, Factors. *Journal of Sociology and Social Anthropology*, 18(1), 179-190. [http://jourssa.ru/jourssa/article/view/376](http://jourssa.ru/jourssa/article/view/376).
+1.	Barsegyan V.M. (2015). Intergenerational Social Mobility of Young Political Activists: Level, Intensity, Factors. *Journal of Sociology and Social Anthropology*, 18(1), 179-190. [https://www.jourssa.ru/files/volumes/2015_1/Barsegyan_2015_1.pdf](https://www.jourssa.ru/files/volumes/2015_1/Barsegyan_2015_1.pdf).
 
 1.	Barsegyan V.M. (2014). Intergenerational Educational Mobility of Young Social and Political Activists in Modern Russian Society. *Bulletin of Novosibirsk State University. Series: Socio-economic sciences*, 14(3), 163-178. [https://publications.hse.ru/pubs/share/folder/q3v4lgjraw/138944779.pdf](https://publications.hse.ru/pubs/share/folder/q3v4lgjraw/138944779.pdf.).
 
