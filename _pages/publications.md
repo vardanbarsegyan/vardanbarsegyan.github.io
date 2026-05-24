@@ -23,7 +23,7 @@ author_profile: true
 
 1.	Barsegyan V.M. (2014). Intergenerational Educational Mobility of Young Social and Political Activists in Modern Russian Society. *Bulletin of Novosibirsk State University. Series: Socio-economic sciences*, 14(3), 163-178. [https://publications.hse.ru/pubs/share/folder/q3v4lgjraw/138944779.pdf](https://publications.hse.ru/pubs/share/folder/q3v4lgjraw/138944779.pdf.).
 
-1.	Barsegyan V.M. (2014). Forms and Factors of Youth Political Activism: Classic Concepts and Modern Research. (Review paper). *Humanitarian and socio-economic sciences*, 4, 116-121. [https://publications.hse.ru/pubs/share/folder/emt3rxufjq/138922524.pdf](https://publications.hse.ru/pubs/share/folder/emt3rxufjq/138922524.pdf).
+1.	Barsegyan V.M. (2014). Forms and Factors of Youth Political Activism: Classic Concepts and Modern Research. *Humanitarian and socio-economic sciences*, 4, 116-121. [https://publications.hse.ru/pubs/share/folder/emt3rxufjq/138922524.pdf](https://publications.hse.ru/pubs/share/folder/emt3rxufjq/138922524.pdf).
 
 1.	Barsegyan V.M. (2014). Human Capital of Young Social and Political Activists – the Resource Approach. *Bulletin of the Immanuel Kant Baltic Federal University. Series: Humanities and Social Sciences*, 12, 153-164. [https://journals.kantiana.ru/vestnik/society/10614/53494](https://journals.kantiana.ru/vestnik/society/10614/53494).
    
