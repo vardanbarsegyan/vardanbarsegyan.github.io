@@ -7,7 +7,7 @@ author_profile: true
 
 
 ## Peer-reviewed articles 
-1.	Barsegyan, V., & Maas, I. (2024) First-generation students’ educational outcomes: the role of parental educational, cultural, and economic capital - a 9-years panel study. *Research in Social Stratification and Mobility*, 91. [https://doi.org/10.1016/j.rssm.2024.100939](https://doi.org/10.1016/j.rssm.2024.100939).
+1.	Barsegyan, V., & Maas, I. (2024) First-generation students’ educational outcomes: the role of parental educational, cultural, and economic capital - a 9-years panel study. *Research in Social Stratification and Mobility*, 91, 100939. [https://doi.org/10.1016/j.rssm.2024.100939](https://doi.org/10.1016/j.rssm.2024.100939).
 
 1.	Barsegyan, V., Knigge, A., & Maas, I. (2023). Social origin and political participation: Does education compensate for or reinforce family advantages and disadvantages? *Acta Politica*, 59, 340-363. [https://doi.org/10.1057/s41269-023-00296-5](https://doi.org/10.1057/s41269-023-00296-5). 
 
