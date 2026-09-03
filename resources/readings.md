@@ -1,28 +1,26 @@
 ---
 title: "Readings"
-collection: resources 
+description: "Selected books, articles, proofs, and blogs relevant to quantitative social science."
 permalink: /resources/readings
 ---
 
-# General articles 
+## General
 
-1. Gërxhani, de Graaf, and Raub (2022). [Handbook of Sociological Science. Contributions to Rigorous Sociology](https://www.elgaronline.com/view/book/9781789909432/9781789909432.xml)
+- Gërxhani, K., de Graaf, N. D., & Raub, W., eds. (2022). [*Handbook of Sociological Science: Contributions to Rigorous Sociology*](https://www.elgaronline.com/view/book/9781789909432/9781789909432.xml).
+- Elsässer, L., & Schäfer, A. (2023). [Political Inequality in Rich Democracies](https://www.annualreviews.org/doi/abs/10.1146/annurev-polisci-052521-094617).
+- Kremakova, M. (2023). [Desert Island Scripts: A Mathematics Reading List to Help Bridge the Gap Between Numbers and Sociology](https://thesociologicalreview.org/magazine/october-2023/numbers/desert-island-scripts/).
+- [The Book of Statistical Proofs](https://statproofbook.github.io/I/ToC).
 
-1. Elsässer L., Schäfer A. (2023). [Political Inequality in Rich Democracies](https://www.annualreviews.org/doi/abs/10.1146/annurev-polisci-052521-094617)
+## Analytical sociology
 
-1. Kremakova M. (2023). [Desert island scripts. A mathematics reading list to help bridge the gap between numbers and sociology](https://thesociologicalreview.org/magazine/october-2023/numbers/desert-island-scripts/?fbclid=IwAR1won3urwZz3VbT0rjjOmxo7FY7R-cxARonrd0pcv_1NxqyDF5GVkvgp0M)
+- [*Kölner Zeitschrift für Soziologie und Sozialpsychologie*, volume 78, issue 3](https://link.springer.com/journal/11577/volumes-and-issues/78-3).
 
-1. The Book of Statistical Proofs [link](https://statproofbook.github.io/I/ToC) 
+## Migration
 
-# Analytical Sociology 
+- Fauser, M., & Bada, X., eds. (2024). [*The Routledge International Handbook of Transnational Studies*](https://www.taylorfrancis.com/books/edit/10.4324/9781003329978/routledge-international-handbook-transnational-studies-margit-fauser-xochitl-bada).
 
-1. KZfSS Kölner Zeitschrift für Soziologie und Sozialpsychologie: [https://link.springer.com/journal/11577/volumes-and-issues/78-3](https://link.springer.com/journal/11577/volumes-and-issues/78-3)
+## Blogs
 
+- [Statistical Modeling, Causal Inference, and Social Science](https://statmodeling.stat.columbia.edu/).
 
-# Migration
-
-1. Fauser, Bada (2024). [The Routledge International Handbook of Transnational Studies](https://www.taylorfrancis.com/books/edit/10.4324/9781003329978/routledge-international-handbook-transnational-studies-margit-fauser-xóchitl-bada?refId=4401311d-4d60-4d99-9ed6-b9a10c1eda55&context=ubx).
-
-# Blogs 
-
-1. [Statistical Modeling, Causal Inference, and Social Science](https://statmodeling.stat.columbia.edu)
+Links were reviewed in September 2026.

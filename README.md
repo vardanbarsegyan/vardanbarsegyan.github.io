@@ -1,31 +1,46 @@
-A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
+# Vardan Barsegyan — academic website
 
-I think I've got things running smoothly and fixed some major bugs, but feel free to file issues or make pull requests if you want to improve the generic template / theme.
+Source for [www.vardanbarsegyan.com](https://www.vardanbarsegyan.com), a Jekyll-based academic website maintained in the `vardanbarsegyan/vardanbarsegyan.github.io` repository.
 
-### Note: if you are using this repo and now get a notification about a security vulnerability, delete the Gemfile.lock file. 
+## Local development
 
-# Instructions
+The supported toolchain is Ruby 3.3.12 and Node.js 24 LTS. Version files are included for Ruby and Node version managers.
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
+```bash
+bundle install
+npm install
+bundle exec jekyll serve --livereload
+```
 
-See more info at https://academicpages.github.io/
+Open `http://127.0.0.1:4000`. Build and check the production output with:
 
-## To run locally (not on GitHub Pages, to serve on your own computer)
+```bash
+bundle exec jekyll build --strict_front_matter
+bundle exec htmlproofer ./_site --disable-external
+```
 
-1. Clone the repository and made updates as detailed above
-1. Make sure you have ruby-dev, bundler, and nodejs installed: `sudo apt install ruby-dev ruby-bundler nodejs`
-1. Run `bundle clean` to clean up the directory (no need to run `--force`)
-1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
-1. Run `bundle exec jekyll liveserve` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
+## Content and assets
 
-# Changelog -- bugfixes and enhancements
+- Site-wide identity, profiles, analytics, and collection settings: `_config.yml`
+- Main navigation: `_data/navigation.yml`
+- Main pages: `_pages/`
+- Curated resource lists: `resources/`
+- CV, worksheets, and other downloads: `files/`
+- PVI presentations and interactive maps: `_publications/`
+- Images and social preview: `images/`
 
-There is one logistical issue with a ready-to-fork template theme like academic pages that makes it a little tricky to get bug fixes and updates to the core theme. If you fork this repository, customize it, then pull again, you'll probably get merge conflicts. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch. 
+The theme CSS is stored as compiled static files in `assets/css/`. JavaScript sources remain in `assets/js/`; after changing them, run `npm run build:js` and commit the regenerated `assets/js/main.min.js`.
 
-To support this, all changes to the underlying code appear as a closed issue with the tag 'code change' -- get the list [here](https://github.com/academicpages/academicpages.github.io/issues?q=is%3Aclosed%20is%3Aissue%20label%3A%22code%20change%22%20). Each issue thread includes a comment linking to the single commit or a diff across multiple commits, so those with forked repositories can easily identify what they need to patch.
+The Political Voice Inequality maps share the locally hosted `assets/js/plotly-geo-3.6.0.min.js` bundle. This avoids an external runtime dependency and keeps the map pages much smaller than their former standalone exports.
+
+## Deployment
+
+The GitHub Actions workflow builds, checks, and deploys the site to GitHub Pages after changes reach the `master` branch. The custom domain is defined in `CNAME`. Configure the repository’s Pages source as **GitHub Actions** before the first workflow deployment.
+
+## Privacy
+
+Google Analytics 4 is enabled through `_config.yml`. The societal-impact page links to a Google Form; submissions and Google’s handling of form data occur on Google’s service. The public privacy notice is in `_pages/terms.md`.
+
+## Credits and license
+
+The presentation layer is based on the [Academic Pages](https://github.com/academicpages/academicpages.github.io) theme, itself derived from Minimal Mistakes. See `LICENSE` for the inherited MIT license.

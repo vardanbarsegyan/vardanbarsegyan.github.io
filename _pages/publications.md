@@ -2,81 +2,80 @@
 layout: archive
 title: "Publications"
 permalink: /publications/
+description: "Peer-reviewed articles, policy reports, translations, working papers, and doctoral research by Vardan Barsegyan."
 author_profile: true
 ---
 
 
-## Peer-reviewed articles 
-1.	Barsegyan, V., & Maas, I. (2024) First-generation students’ educational outcomes: the role of parental educational, cultural, and economic capital - a 9-years panel study. *Research in Social Stratification and Mobility*, 91, 100939. [https://doi.org/10.1016/j.rssm.2024.100939](https://doi.org/10.1016/j.rssm.2024.100939).
+## Peer-reviewed articles
+1.	Barsegyan, V., & Maas, I. (2024). First-generation students’ educational outcomes: The role of parental educational, cultural, and economic capital—a nine-year panel study. *Research in Social Stratification and Mobility*, 91, 100939. [https://doi.org/10.1016/j.rssm.2024.100939](https://doi.org/10.1016/j.rssm.2024.100939).
 
-1.	Barsegyan, V., Knigge, A., & Maas, I. (2023). Social origin and political participation: Does education compensate for or reinforce family advantages and disadvantages? *Acta Politica*, 59, 340-363. [https://doi.org/10.1057/s41269-023-00296-5](https://doi.org/10.1057/s41269-023-00296-5). 
+1.	Barsegyan, V., Knigge, A., & Maas, I. (2023). Social origin and political participation: Does education compensate for or reinforce family advantages and disadvantages? *Acta Politica*, 59, 340-363. [https://doi.org/10.1057/s41269-023-00296-5](https://doi.org/10.1057/s41269-023-00296-5).
 
-1.	Bij de Vaate D., Barsegyan V. (2023). Het effect van sociaaleconomische status en politieke kansenstructuren op protestparticipatie: een multilevel analyse van 17 Europese landen (The effect of socioeconomic status and political opportunity structures on protest participation: a multilevel analysis of 17 European countries). *Mens & Maatschappij*, 98(2), 150–74. [https://doi.org/10.5117/MEM2023.2.003.VAAT](https://doi.org/10.5117/MEM2023.2.003.VAAT). 
+1.	Bij de Vaate D., Barsegyan V. (2023). Het effect van sociaaleconomische status en politieke kansenstructuren op protestparticipatie: een multilevel analyse van 17 Europese landen (The effect of socioeconomic status and political opportunity structures on protest participation: a multilevel analysis of 17 European countries). *Mens & Maatschappij*, 98(2), 150–74. [https://doi.org/10.5117/MEM2023.2.003.VAAT](https://doi.org/10.5117/MEM2023.2.003.VAAT).
 
-1.	Barsegyan V.M. (2019). Models of Career Trajectories of Heads of Russian Regions. *Polis. Political studies*, 4, 132-148. [https://doi.org/10.17976/jpps/2019.04.10](https://doi.org/10.17976/jpps/2019.04.10). 
+1.	Barsegyan V.M. (2019). Models of Career Trajectories of Heads of Russian Regions. *Polis. Political studies*, 4, 132-148. [https://doi.org/10.17976/jpps/2019.04.10](https://doi.org/10.17976/jpps/2019.04.10).
 
 1.	Barsegyan V.M. (2018). Political and Research Activity of Young Political Scientist: a Zero-sum Game? *Political science*, 4, 258-270. [https://doi.org/10.31249/poln/2018.04.13](https://doi.org/10.31249/poln/2018.04.13).
 
-1.	Barsegyan V.M. (2018). Administrative Discourse: Structure, Volume, Practices of Production and Legitimation of Texts. *Journal of Sociology and Social Anthropology*, 21(1), 107-135. [https://www.jourssa.ru/files/volumes/2018_1/Barsegyan_2018_1.pdf](https://www.jourssa.ru/files/volumes/2018_1/Barsegyan_2018_1.pdf)
+1.	Barsegyan V.M. (2018). Administrative Discourse: Structure, Volume, Practices of Production and Legitimation of Texts. *Journal of Sociology and Social Anthropology*, 21(1), 107-135. [Publication record and full text](https://research-portal.uu.nl/en/publications/administrative-discourse-structure-volume-production-practices-an/).
 
-1.	Barsegyan V.M. (2015). Intergenerational Social Mobility of Young Political Activists: Level, Intensity, Factors. *Journal of Sociology and Social Anthropology*, 18(1), 179-190. [https://www.jourssa.ru/files/volumes/2015_1/Barsegyan_2015_1.pdf](https://www.jourssa.ru/files/volumes/2015_1/Barsegyan_2015_1.pdf).
+1.	Barsegyan V.M. (2015). Intergenerational Social Mobility of Young Political Activists: Level, Intensity, Factors. *Journal of Sociology and Social Anthropology*, 18(1), 179-190. [Publication record and full text](https://publications.hse.ru/en/articles/148451559).
 
-1.	Barsegyan V.M. (2014). Intergenerational Educational Mobility of Young Social and Political Activists in Modern Russian Society. *Bulletin of Novosibirsk State University. Series: Socio-economic sciences*, 14(3), 163-178. [https://publications.hse.ru/pubs/share/folder/q3v4lgjraw/138944779.pdf](https://publications.hse.ru/pubs/share/folder/q3v4lgjraw/138944779.pdf.).
+1.	Barsegyan V.M. (2014). Intergenerational Educational Mobility of Young Social and Political Activists in Modern Russian Society. *Bulletin of Novosibirsk State University. Series: Socio-economic sciences*, 14(3), 163-178. [https://publications.hse.ru/pubs/share/folder/q3v4lgjraw/138944779.pdf](https://publications.hse.ru/pubs/share/folder/q3v4lgjraw/138944779.pdf).
 
 1.	Barsegyan V.M. (2014). Forms and Factors of Youth Political Activism: Classic Concepts and Modern Research. *Humanitarian and socio-economic sciences*, 4, 116-121. [https://publications.hse.ru/pubs/share/folder/emt3rxufjq/138922524.pdf](https://publications.hse.ru/pubs/share/folder/emt3rxufjq/138922524.pdf).
 
 1.	Barsegyan V.M. (2014). Human Capital of Young Social and Political Activists – the Resource Approach. *Bulletin of the Immanuel Kant Baltic Federal University. Series: Humanities and Social Sciences*, 12, 153-164. [https://journals.kantiana.ru/vestnik/society/10614/53494](https://journals.kantiana.ru/vestnik/society/10614/53494).
-   
+
 
 ## Articles under review in peer-reviewed journals
 
-1. Barsegyan, V.M., Negash, S.M. (2026). (No) Longer Dependent: the Impact of Reception and Civic Integration Policies on Social Assistance Dependency Among Refugees in the Netherlands. R&R in *International Migration Review*.
+1. Barsegyan, V.M., Negash, S.M. (2026). (No) Longer Dependent: The Impact of Reception and Civic Integration Policies on Social Assistance Dependency Among Refugees in the Netherlands. R&R in *International Migration Review*. [Preprint](https://doi.org/10.31219/osf.io/ecjsn_v1).
 
 1. Barsegyan, V.M., Geenen, M., Otten, K. (2026). The Role of Host Family versus Municipal Accommodation in the Social Inclusion of Ukrainian Refugees in the Netherlands. R&R in *Journal of International Migration and Integration*.
 
 
-## Public policy reports 
+## Public policy reports
 
-1. Noyon, S.M., Barsegyan, V.M., Vink, M.E., Pluymaekers, T.P.N. (2026). *Incidenten en misdrijven onder bewoners van COA- en gemeentelijke opvanglocaties 2019-2025* [Residents of COA and temporary municipal shelters charged with incidents or crimes in 2019-2025]. Den Haag: WODC. Cahier 2026-11. [https://www.wodc.nl/documenten/2026/07/02/incidenten-en-misdrijvenoverzicht-2019-2025](https://www.wodc.nl/documenten/2026/07/02/incidenten-en-misdrijvenoverzicht-2019-2025)
+1. Noyon, S.M., Barsegyan, V.M., Vink, M.E., Pluymaekers, T.P.N. (2026). *Incidenten en misdrijven onder bewoners van COA- en gemeentelijke opvanglocaties 2019-2025* [Residents of COA and temporary municipal shelters charged with incidents or crimes in 2019-2025]. Den Haag: WODC. Cahier 2026-11. [WODC publication page](https://www.wodc.nl/actueel/nieuws/2026/07/02/overgrote-deel-van-asielmigranten-nog-nooit-verdacht-van-een-misdrijf).
 
-1.	Barsegyan, V., Geenen, M., Otten, K. (2025). De rol van opvang in de sociale insluiting van Oekraïense vluchtelingen in Nederland [The role of reception in the social inclusion of Ukrainian refugees in the Netherlands] (pp. 66-84). In Otten, K., Maliepaard, M., Dagevos, J.M., van Leeuwen, L.P.S., de Mooij-Schep, M., Barsegyan, V., Geenen, M., Negash, S.M., Nooitgedagt, W., Hogendoorn, B., Huisman, C., Rud, I., Kraaijeveld de Gelder, R., Smal, E. (2025). *Meer dan een dak. Hoe opvang bijdraagt aan het werken en welzijn van Oekraïense vluchtelingen [Not Just a Roof. The Role of Reception in Employment and Well-being of Ukrainian Refugees]*. Den Haag: WODC, Cahier 2025-7. [https://repository.wodc.nl/handle/20.500.12832/3480](https://repository.wodc.nl/handle/20.500.12832/3480).   
+1.	Barsegyan, V., Geenen, M., Otten, K. (2025). De rol van opvang in de sociale insluiting van Oekraïense vluchtelingen in Nederland [The role of reception in the social inclusion of Ukrainian refugees in the Netherlands] (pp. 66-84). In Otten, K., Maliepaard, M., Dagevos, J.M., van Leeuwen, L.P.S., de Mooij-Schep, M., Barsegyan, V., Geenen, M., Negash, S.M., Nooitgedagt, W., Hogendoorn, B., Huisman, C., Rud, I., Kraaijeveld de Gelder, R., Smal, E. (2025). *Meer dan een dak. Hoe opvang bijdraagt aan het werken en welzijn van Oekraïense vluchtelingen [Not Just a Roof. The Role of Reception in Employment and Well-being of Ukrainian Refugees]*. Den Haag: WODC, Cahier 2025-7. [https://hdl.handle.net/20.500.12832/3480](https://hdl.handle.net/20.500.12832/3480).
 
-1.	Otten, K., Barsegyan, V., Geenen, M. (2025). De rol van opvang in de arbeidsparticipatie van Oekraïense vluchtelingen [The role of reception in the labor participation of Ukrainian refugees] (pp. 27-48). In Otten, K., Maliepaard, M., Dagevos, J.M., van Leeuwen, L.P.S., de Mooij-Schep, M., Barsegyan V., Geenen M., Negash, S.M., Nooitgedagt, W., Hogendoorn, B., Huisman, C., Rud, I., Kraaijeveld de Gelder, R., Smal, E. (2025). *Meer dan een dak. Hoe opvang bijdraagt aan het werken en welzijn van Oekraïense vluchtelingen [Not Just a Roof. The Role of Reception in Employment and Well-being of Ukrainian Refugees]*. Den Haag: WODC, Cahier 2025-7. [https://repository.wodc.nl/handle/20.500.12832/3480](https://repository.wodc.nl/handle/20.500.12832/3480).   
+1.	Otten, K., Barsegyan, V., Geenen, M. (2025). De rol van opvang in de arbeidsparticipatie van Oekraïense vluchtelingen [The role of reception in the labor participation of Ukrainian refugees] (pp. 27-48). In Otten, K., Maliepaard, M., Dagevos, J.M., van Leeuwen, L.P.S., de Mooij-Schep, M., Barsegyan V., Geenen M., Negash, S.M., Nooitgedagt, W., Hogendoorn, B., Huisman, C., Rud, I., Kraaijeveld de Gelder, R., Smal, E. (2025). *Meer dan een dak. Hoe opvang bijdraagt aan het werken en welzijn van Oekraïense vluchtelingen [Not Just a Roof. The Role of Reception in Employment and Well-being of Ukrainian Refugees]*. Den Haag: WODC, Cahier 2025-7. [https://hdl.handle.net/20.500.12832/3480](https://hdl.handle.net/20.500.12832/3480).
 
-1.	Noyon, S.M., Barsegyan, V.M., Vink, M.E., Pluymaekers, T.P.N. (2025). *Incidenten en misdrijven door bewoners van COA- en tgo-locaties 2017-2024 [Residents of COA and temporary municipal shelters charged with incidents or crimes in 2017-2024]*. Den Haag: WODC. Cahier 2025-4. [https://repository.wodc.nl/handle/20.500.12832/3460](https://repository.wodc.nl/handle/20.500.12832/3460). 
+1.	Noyon, S.M., Barsegyan, V.M., Vink, M.E., Pluymaekers, T.P.N. (2025). *Incidenten en misdrijven door bewoners van COA- en tgo-locaties 2017-2024 [Residents of COA and temporary municipal shelters charged with incidents or crimes in 2017-2024]*. Den Haag: WODC. Cahier 2025-4. [https://hdl.handle.net/20.500.12832/3460](https://hdl.handle.net/20.500.12832/3460).
 
-1. Van Enk, B., Barsegyan, V.M. (2024). Demografie [Demography]. In WODC, Tijdelijk thuis? De positie van Oekraïense vluchtelingen in Nederland [Temporarily at home? The position of Ukrainian refugees in the Netherlands] (pp. 12–17). Den Haag: WODC. Memorandum 2024-1. [http://hdl.handle.net/20.500.12832/3416](http://hdl.handle.net/20.500.12832/3416)
+1. Van Enk, B., Barsegyan, V.M. (2024). Demografie [Demography]. In WODC, Tijdelijk thuis? De positie van Oekraïense vluchtelingen in Nederland [Temporarily at home? The position of Ukrainian refugees in the Netherlands] (pp. 12–17). Den Haag: WODC. Memorandum 2024-1. [https://hdl.handle.net/20.500.12832/3416](https://hdl.handle.net/20.500.12832/3416).
 
-1. Barsegyan, V.M. (2024). Sociale contacten en taal [Social contact and language]. In WODC, Tijdelijk thuis? De positie van Oekraïense vluchtelingen in Nederland [Temporarily at home? The position of Ukrainian refugees in the Netherlands] (pp. 43–47). Den Haag: WODC. Memorandum 2024-1. [http://hdl.handle.net/20.500.12832/3416](http://hdl.handle.net/20.500.12832/3416)
+1. Barsegyan, V.M. (2024). Sociale contacten en taal [Social contact and language]. In WODC, Tijdelijk thuis? De positie van Oekraïense vluchtelingen in Nederland [Temporarily at home? The position of Ukrainian refugees in the Netherlands] (pp. 43–47). Den Haag: WODC. Memorandum 2024-1. [https://hdl.handle.net/20.500.12832/3416](https://hdl.handle.net/20.500.12832/3416).
 
-1. Barsegyan, V.M. (2024). Discriminatie en institutioneel vertrouwen [Discrimination and institutional trust]. In WODC, Tijdelijk thuis? De positie van Oekraïense vluchtelingen in Nederland [Temporarily at home? The position of Ukrainian refugees in the Netherlands] (pp. 48–52). Den Haag: WODC. Memorandum 2024-1. [http://hdl.handle.net/20.500.12832/3416](http://hdl.handle.net/20.500.12832/3416)
+1. Barsegyan, V.M. (2024). Discriminatie en institutioneel vertrouwen [Discrimination and institutional trust]. In WODC, Tijdelijk thuis? De positie van Oekraïense vluchtelingen in Nederland [Temporarily at home? The position of Ukrainian refugees in the Netherlands] (pp. 48–52). Den Haag: WODC. Memorandum 2024-1. [https://hdl.handle.net/20.500.12832/3416](https://hdl.handle.net/20.500.12832/3416).
 
-1.	Barsegyan, V.M., Negash, S.M. (2024). (Niet) langer afhankelijk? De effecten van opvang- en inburgeringsbeleid op de uitstroom uit de bijstand naar werk onder statushouders [(No longer) dependent? The effects of reception and integration policies on the outflow from welfare to work among refugees]. In: J.M. Dagevos, M. Maliepaard, M. de Mooij (Reds.). *Met beleid vooruit? Wat betekent het opvang-, inburgerings- en spreidingsbeleid voor ontwikkelingen in de positie en leefsituatie van statushouders? [Moving forward with policy? What does the reception, integration, and distribution policy mean for developments in the position and living conditions of refugees?]* (pp. 39-61). Den Haag: WODC. Cahier 2024-16. [https://repository.wodc.nl/handle/20.500.12832/3406](https://repository.wodc.nl/handle/20.500.12832/3406). 
+1.	Barsegyan, V.M., Negash, S.M. (2024). (Niet) langer afhankelijk? De effecten van opvang- en inburgeringsbeleid op de uitstroom uit de bijstand naar werk onder statushouders [(No longer) dependent? The effects of reception and integration policies on the outflow from welfare to work among refugees]. In: J.M. Dagevos, M. Maliepaard, M. de Mooij (Reds.). *Met beleid vooruit? Wat betekent het opvang-, inburgerings- en spreidingsbeleid voor ontwikkelingen in de positie en leefsituatie van statushouders? [Moving forward with policy? What does the reception, integration, and distribution policy mean for developments in the position and living conditions of refugees?]* (pp. 39-61). Den Haag: WODC. Cahier 2024-16. [https://hdl.handle.net/20.500.12832/3406](https://hdl.handle.net/20.500.12832/3406).
 
-1.	Van Enk, B., Negash, S.M., Otten, K.D., Barsegyan, V.M., Noyon, S.M., Maliepaard, M., & Schans, D. (2024). *Oekraïense vluchtelingen in Nederland. Representatieve cijfers over hun welzijn en positieverwerving [Ukrainian refugees in the Netherlands. Representative statistics on their well-being and positivity.]*. Den Haag: WODC. Factsheet 2024-2. [https://repository.wodc.nl/handle/20.500.12832/3378](https://repository.wodc.nl/handle/20.500.12832/3378.). 
+1.	Van Enk, B., Negash, S.M., Otten, K.D., Barsegyan, V.M., Noyon, S.M., Maliepaard, M., & Schans, D. (2024). *Oekraïense vluchtelingen in Nederland. Representatieve cijfers over hun welzijn en positieverwerving [Ukrainian refugees in the Netherlands. Representative statistics on their well-being and social position.]*. Den Haag: WODC. Factsheet 2024-2. [https://hdl.handle.net/20.500.12832/3378](https://hdl.handle.net/20.500.12832/3378).
 
-1.	Noyon, S.M., Barsegyan, V.M., Vink, M.E., Pluymaekers, T.P.N. (2024). *Incidenten en misdrijven door bewoners van COA- en crisisnoodopvanglocaties 2017-2023 [Incidents and Crimes by Residents of COA and Emergency Reception Centres 2017-2023]*. Den Haag: WODC. Cahier 2024-12. [https://repository.wodc.nl/handle/20.500.12832/3374](https://repository.wodc.nl/handle/20.500.12832/3374). 
+1.	Noyon, S.M., Barsegyan, V.M., Vink, M.E., Pluymaekers, T.P.N. (2024). *Incidenten en misdrijven door bewoners van COA- en crisisnoodopvanglocaties 2017-2023 [Incidents and Crimes by Residents of COA and Emergency Reception Centres 2017-2023]*. Den Haag: WODC. Cahier 2024-12. [https://hdl.handle.net/20.500.12832/3374](https://hdl.handle.net/20.500.12832/3374).
 
-1.	Noyon S.M., V. Barsegyan, M.E. Vink (2024). *Inzicht in incidenten en misdrijven onder COA-bewoners. Een kwantitatief onderzoek naar de achtergrondkenmerken van betrokkenen [Insights into incidents and crimes among COA residents. A quantitative study of the background characteristics of the individuals involved]*. Den Haag: WODC. Cahier 2024-9. [https://repository.wodc.nl/handle/20.500.12832/3361](https://repository.wodc.nl/handle/20.500.12832/3361). 
+1.	Noyon S.M., V. Barsegyan, M.E. Vink (2024). *Inzicht in incidenten en misdrijven onder COA-bewoners. Een kwantitatief onderzoek naar de achtergrondkenmerken van betrokkenen [Insights into incidents and crimes among COA residents. A quantitative study of the background characteristics of the individuals involved]*. Den Haag: WODC. Cahier 2024-9. [https://hdl.handle.net/20.500.12832/3361](https://hdl.handle.net/20.500.12832/3361).
 
-1.	Otten K., Barsegyan V., Maliepaard M. (2023). *De leefsituatie en positie van Oekraïense vluchtelingen. Een eerste scan van de literatuur [The socio-economic position and living conditions of Ukrainian refugees]*. Den Haag: WODC. (in Dutch and Ukrainian). [https://repository.wodc.nl/handle/20.500.12832/3311](https://repository.wodc.nl/handle/20.500.12832/3311). 
+1.	Otten K., Barsegyan V., Maliepaard M. (2023). *De leefsituatie en positie van Oekraïense vluchtelingen. Een eerste scan van de literatuur [The socio-economic position and living conditions of Ukrainian refugees]*. Den Haag: WODC. (in Dutch and Ukrainian). [https://hdl.handle.net/20.500.12832/3311](https://hdl.handle.net/20.500.12832/3311).
 
-1.	Latenko A., Vink M. E., Barsegyan V., Schans D., & van den Braak S. W. (2023). *Incidenten en misdrijven door bewoners van COA- en crisis-noodopvanglocaties 2017-2022 [Incidents and criminal activities involving residents of COA and crisis emergency shelter locations 2017-2022]*. Den Haag: WODC. Cahier 2023-10. [http://hdl.handle.net/20.500.12832/3273](http://hdl.handle.net/20.500.12832/3273).
+1.	Latenko A., Vink M. E., Barsegyan V., Schans D., & van den Braak S. W. (2023). *Incidenten en misdrijven door bewoners van COA- en crisis-noodopvanglocaties 2017-2022 [Incidents and criminal activities involving residents of COA and crisis emergency shelter locations 2017-2022]*. Den Haag: WODC. Cahier 2023-10. [https://hdl.handle.net/20.500.12832/3273](https://hdl.handle.net/20.500.12832/3273).
 
 
-## Peer-reviewed translations 
-1. Van der Zeeuw, A., Keesman, L.D., Weenink, D. & Barsegyan, V.M. (2019). Социологизирование с Р. Коллинзом: интервью об эмоциях, насилии, пространствах внимания и социологии (Sociologiseren met R. Collins: interview over emoties, geweld, aandachtsvelden en sociologie). *Sotsiologicheskie issledovaniia* (Sociological research)(1), 40-51. [https://www.socis.isras.ru/files/File/2019/1/van_der_Zeeuw.pdf](https://www.socis.isras.ru/files/File/2019/1/van_der_Zeeuw.pdf).  
+## Peer-reviewed translations
+1. Van der Zeeuw, A., Keesman, L.D., Weenink, D. & Barsegyan, V.M. (2019). Социологизирование с Р. Коллинзом: интервью об эмоциях, насилии, пространствах внимания и социологии (Sociologiseren met R. Collins: interview over emoties, geweld, aandachtsvelden en sociologie). *Sotsiologicheskie issledovaniia* (Sociological research)(1), 40-51. [https://www.socis.isras.ru/files/File/2019/1/van_der_Zeeuw.pdf](https://www.socis.isras.ru/files/File/2019/1/van_der_Zeeuw.pdf).
 
-## PhD-thesis
+## PhD thesis
 1. Barsegyan V.M. (2015). Political Activity of Youth as a Channel of Social Mobility in Contemporary Russian Society, Moscow, Russia (in Russian). [https://id.hse.ru/sci/diss/165404679](https://id.hse.ru/sci/diss/165404679).
 
-## Working papers / Preprints 
-1.	Otten, K., Barsegyan, V., Geenen, M. (2026). The Role of Housing in the Labor Market Participation of Ukrainian Refugees. Submitted to the Journal of Refugee Studies.  
+## Working papers / Preprints
+1.	Otten, K., Barsegyan, V., Geenen, M. (2026). The Role of Housing in the Labor Market Participation of Ukrainian Refugees. Submitted to the Journal of Refugee Studies.
 
-1.	Otten, K., Negash, S.M., Maliepaard, M., Nooitgedagt, W., Barsegyan, V. (2025). How stricter asylum plans and exclusionary rhetoric influence the perceived social inclusion of refugees. Working paper. Preregistration. https://osf.io/raf2b/ 
+1.	Otten, K., Negash, S.M., Maliepaard, M., Nooitgedagt, W., Barsegyan, V. (2025). How stricter asylum plans and exclusionary rhetoric influence the perceived social inclusion of refugees. Working paper. [Preregistration](https://osf.io/raf2b/).
 
-1. Barsegyan, V., & Negash, S. (2025, August 1).  (No) Longer Dependent: the Impact of Reception and Civic Integration Policies on Social Assistance Dependency Among Refugees in the Netherlands. [https://doi.org/10.31219/osf.io/ecjsn_v1](https://doi.org/10.31219/osf.io/ecjsn_v1). In progress.
-
-1.	Barsegyan, V.M. (2023). How Biased Is the Voice of People? Introducing The Political Voice Inequality Index (PVI-index). [https://doi.org/10.31235/osf.io/3gfes](https://doi.org/10.31235/osf.io/3gfes) and [https://www.vardanbarsegyan.com/ippi_index/](https://www.vardanbarsegyan.com/ippi_index/). In progress.
+1.	Barsegyan, V.M. (2023). How Biased Is the Voice of People? Introducing the Political Voice Inequality Index. [Preprint](https://doi.org/10.31235/osf.io/3gfes) and [project page]({{ "/pvi_index/" | relative_url }}). In progress.
 
 1.	Barsegyan V.M., Stienstra K., Knigge A., & Maas I. “Effects of Parental Compensation and Reinforcement on Within-Family Educational Inequality: Comparing Sibling, Non-Identical Twin and Identical Twin Samples”. In progress.

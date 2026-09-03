@@ -1,24 +1,15 @@
-# main links links
 main:
   - title: "Publications"
     url: /publications/
-
   - title: "Talks"
-    url: /talks/    
-
+    url: /talks/
   - title: "Teaching"
-    url: /teaching/    
-    
+    url: /teaching/
   - title: "Societal Impact"
     url: /impact/
-
-  - title: "Inequality Index"
+  - title: "PVI Index"
     url: /pvi_index/
-    
   - title: "Resources"
     url: /resources/
-
   - title: "CV"
     url: /cv/
-
-

@@ -1,39 +1,25 @@
 ---
 permalink: /terms/
-title: "Terms and Privacy Policy"
-modified: 2016-06-06
+title: "Privacy"
+description: "Privacy information for vardanbarsegyan.com."
+modified: 2026-09-02
+author_profile: false
 ---
 
-{% include base_path %}
-{% include toc %}
+This website is a public academic profile hosted through GitHub Pages.
 
-## Privacy Policy
+## Analytics
 
-The privacy of my visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.
+The site uses Google Analytics 4 to understand aggregate website usage, such as visited pages, approximate location, device type, and referral source. Google may set cookies or process technical identifiers for this purpose. See [Google’s privacy information](https://policies.google.com/privacy) and the [Google Analytics opt-out browser add-on](https://tools.google.com/dlpage/gaoptout).
 
-First and foremost, I will never share your email address or any other personal information to anyone without your direct consent.
+## Google Form
 
-### Log Files
+The [anti-war statement page]({{ "/impact/" | relative_url }}) links to a Google Form. If you choose to submit the form, Google and the form owner process the information you provide. Visiting this website does not submit anything to that form.
 
-Like many other websites, this site uses log files to help learn about when, from where, and how often traffic flows to this site. The information in these log files include:
+## Hosting and external links
 
-* Internet Protocol addresses (IP)
-* Types of browser
-* Internet Service Provider (ISP)
-* Date and time stamp
-* Referring and exit pages
-* Number of clicks
+GitHub Pages serves the website and may retain technical server logs. External websites linked from these pages have their own privacy practices.
 
-All of this information is not linked to anything that is personally identifiable.
+The site does not provide user accounts, comments, advertising, or direct data collection forms.
 
-### Cookies and Web Beacons
-
-When you visit this site "convenience" cookies are stored on your computer when you submit a comment to help you log in faster to [Disqus](http://disqus.com) the next time you leave a comment.
-
-Third-party advertisers may also place and read cookies on your browser and/or use web beacons to collect information. This site has no access or control over these cookies. You should review the respective privacy policies on any and all third-party ad servers for more information regarding their practices and how to opt-out.
-
-If you wish to disable cookies, you may do so through your web browser options. Instructions for doing so can be found on the specific web browsers' websites.
-
-#### Google Analytics
-
-Google Analytics is a web analytics tool I use to help understand how visitors engage with this website. It reports website trends using cookies and web beacons without identifying individual visitors. You can read [Google Analytics Privacy Policy](http://www.google.com/analytics/learn/privacy.html).
+For privacy questions, contact [barsegyanw@gmail.com](mailto:barsegyanw@gmail.com).
