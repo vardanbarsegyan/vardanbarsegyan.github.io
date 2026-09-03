@@ -1,25 +1,25 @@
 ---
 permalink: /
-title: "Dear visitor, <br>welcome to my personal page!"
+title: "Welcome"
+description: "Vardan Barsegyan is a sociologist researching social inequality, migration, education, and political participation."
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-My name is Vardan Barsegyan; I am a sociology researcher (PhD, 2016). I conduct quantitative research in social inequality, social stratification and mobility, voluntary and forced migration, and political inequality. I analyze survey and administrative data in R, STATA, Python, and Mplus.   
+My name is Vardan Barsegyan. I am a sociologist (PhD, 2016) conducting quantitative research on social inequality, social stratification and mobility, voluntary and forced migration, education, and political inequality. I analyse survey and administrative data using R, Stata, Python, and Mplus.
 
-I am currently working as a [social science researcher](https://www.wodc.nl/personen/personen/vardan-barsegyan) at the WODC Research and Data Centre - the knowledge centre in the field of justice and security in the Netherlands. In 2019-2023, I worked as a postdoctoral researcher at the [department of sociology at Utrecht University](https://www.uu.nl/en/organisation/sociology) (Utrecht, the Netherlands). 
+I currently work as a [social science researcher at the WODC Research and Data Centre](https://www.wodc.nl/personen/personen/vardan-barsegyan), the knowledge centre for justice and security in the Netherlands. From 2019 to 2023, I was a postdoctoral researcher at the [Department of Sociology at Utrecht University](https://www.uu.nl/en/organisation/sociology).
 
-I was born in Armenia (Soviet Union) in 1990, studied and grew up in Russia. I have been living in the Netherlands since 2016. 
- 
+I was born in Armenia in 1990 and studied and grew up in Russia. I have lived in the Netherlands since 2016.
 
-My research interests  
-======
-I study how social inequality translates into political inequality. More particularly, how political participation of people is shaped by their social origin, income, education, and occupational status.   
+## Research interests
 
-I also study how educational outcomes of students are shaped by their cognitive ability, social (family) origin, and their interplay. For example, I study differences in educational outcomes of first-generation students and continuous-generation students.  
+I study how social inequality translates into political inequality, particularly how people’s political participation is shaped by social origin, income, education, and occupational status.
 
-Finally, voluntary and forced migration is another component of my research interests. I study the causes and consequences of (in)voluntary migration both for the origin and for the host societies.  
+I also study how students’ educational outcomes are shaped by cognitive ability, family background, and their interaction. This includes differences between first-generation and continuing-generation students.
 
-I mostly use survey and administrative data, including twin-data. I apply a wide range of quantitative methods including structural equation modeling, latent variable analysis, longitudinal, panel, and multilevel analysis, and behavioral genetic models.
+Another part of my research examines the causes and consequences of voluntary and forced migration for origin and host societies.
+
+My work uses survey and administrative data, including twin data. I apply structural equation modelling, latent-variable analysis, longitudinal, panel, and multilevel methods, as well as behavioural genetic models.

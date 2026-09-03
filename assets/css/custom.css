@@ -1,0 +1,29 @@
+/* Site-specific refinements layered over the compiled Academic Pages theme. */
+.greedy-nav #theme-toggle .theme-toggle__button {
+  position: relative;
+  right: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 25px;
+  height: auto;
+  margin: 0 1rem;
+  padding: 0.5rem 0;
+  color: var(--global-masthead-link-color);
+  background: transparent;
+  z-index: auto;
+}
+
+.greedy-nav #theme-toggle .theme-toggle__button:hover {
+  color: var(--global-masthead-link-color-hover);
+}
+
+.greedy-nav #theme-toggle .theme-toggle__button:focus-visible {
+  outline: 3px solid var(--global-link-color);
+  outline-offset: 2px;
+}
+
+.page__content a,
+.archive a {
+  overflow-wrap: anywhere;
+}

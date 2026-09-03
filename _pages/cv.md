@@ -1,8 +1,11 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum vitae"
 permalink: /cv/
+description: "Curriculum vitae of sociologist Vardan Barsegyan, updated August 2026."
 author_profile: true
 ---
 
-[Download CV](../files/CV_Vardan_Barsegyan_EN.pdf)
+The curriculum vitae was last updated in August 2026.
+
+[Download the CV (PDF)]({{ "/files/CV_Vardan_Barsegyan_EN.pdf" | relative_url }}){: .btn .btn--primary }

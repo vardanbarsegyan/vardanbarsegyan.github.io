@@ -1,10 +1,17 @@
 ---
-title: "Tools"
-collection: resources 
+title: "Research tools"
+description: "Downloadable spreadsheets for literature reviews and research organisation."
 permalink: /resources/tools
 ---
 
-1. [Literature review tool](https://github.com/vardanbarsegyan/vardanbarsegyan.github.io/raw/master/files/lit_rew_tool_220522.xlsx). Use this tool to conduct literature review. 
+## Literature review tool
 
-1. [Causes and consequences of political behavior Literature review](https://github.com/vardanbarsegyan/vardanbarsegyan.github.io/raw/master/files/lr_polbeh_220522.xlsx). Literature review on causes and consequences of political behavior. 
+[Download the literature review tool (XLSX)]({{ "/files/lit_rew_tool_220522.xlsx" | relative_url }}){: .btn .btn--primary }
 
+A spreadsheet template for organising and conducting a literature review. File version: 22 May 2022.
+
+## Political behaviour literature review
+
+[Download the political behaviour literature review (XLSX)]({{ "/files/lr_polbeh_220522.xlsx" | relative_url }}){: .btn .btn--primary }
+
+A structured review of research on the causes and consequences of political behaviour. File version: 22 May 2022.
