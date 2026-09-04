@@ -11,7 +11,7 @@ The **Political Voice Inequality Index (PVI Index)** measures how unequally poli
 
 ## Research and materials
 
-This is the preprint: 
+This preprint can be cited when referring to the index: 
 Barsegyan, V. (2023, August 18). *How Biased Is the Voice of People? Introducing the Political Voice Inequality Index*. [Read the methodology paper](https://doi.org/10.31235/osf.io/3gfes).
 
 This is the presentation of the index at the ESRA conference in 2023:  
