@@ -28,9 +28,30 @@
   overflow-wrap: anywhere;
 }
 
-/* Give the profile portrait a little more presence without crowding the bio. */
-.author__avatar {
-  width: 90px;
+/* Stack the mobile author profile so the enlarged portrait cannot crowd the bio. */
+@media (max-width: 57.8124375em) {
+  .author__avatar:not(img) {
+    display: block;
+    width: min(360px, 100%);
+    margin: 0 auto 1rem;
+  }
+
+  .author__avatar img {
+    display: block;
+    width: 100%;
+    max-width: none;
+  }
+
+  .author__content,
+  .author__urls-wrapper {
+    display: block;
+  }
+
+  .author__content {
+    width: 100%;
+    padding-right: 0;
+    padding-left: 0;
+  }
 }
 
 @media (min-width: 57.8125em) {
