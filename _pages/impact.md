@@ -1,6 +1,6 @@
 ---
 permalink: /impact/
-title: "Societal impact"
+title: "Impact"
 description: "An anti-war statement by Russian and Russian-speaking sociologists and social scientists opposing the invasion of Ukraine."
 author_profile: true
 ---

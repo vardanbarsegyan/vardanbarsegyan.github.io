@@ -39,7 +39,7 @@ The GitHub Actions workflow builds, checks, and deploys the site to GitHub Pages
 
 ## Privacy
 
-Google Analytics 4 is enabled through `_config.yml`. The societal-impact page links to a Google Form; submissions and Google’s handling of form data occur on Google’s service. The public privacy notice is in `_pages/terms.md`.
+Google Analytics 4 is enabled through `_config.yml`. The Impact page links to a Google Form; submissions and Google’s handling of form data occur on Google’s service. The public privacy notice is in `_pages/terms.md`.
 
 ## Credits and license
 
