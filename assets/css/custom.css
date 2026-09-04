@@ -67,6 +67,7 @@
   .page,
   .archive {
     width: 70.3389830502%;
+    padding-left: max(0px, calc(4.2372881356% - 1cm));
   }
 
   .author__avatar {
