@@ -28,26 +28,31 @@
   overflow-wrap: anywhere;
 }
 
-/* Stack the mobile author profile so the enlarged portrait cannot crowd the bio. */
+/* Keep the compact portrait on inner pages at mobile sizes. */
+.author__avatar {
+  width: 90px;
+}
+
+/* Stack and enlarge the portrait on the mobile homepage only. */
 @media (max-width: 57.8124375em) {
-  .author__avatar:not(img) {
+  .home-page .author__avatar:not(img) {
     display: block;
     width: min(360px, 100%);
     margin: 0 auto 1rem;
   }
 
-  .author__avatar img {
+  .home-page .author__avatar img {
     display: block;
     width: 100%;
     max-width: none;
   }
 
-  .author__content,
-  .author__urls-wrapper {
+  .home-page .author__content,
+  .home-page .author__urls-wrapper {
     display: block;
   }
 
-  .author__content {
+  .home-page .author__content {
     width: 100%;
     padding-right: 0;
     padding-left: 0;
