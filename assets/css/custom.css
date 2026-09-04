@@ -27,3 +27,18 @@
 .archive a {
   overflow-wrap: anywhere;
 }
+
+/* Give the profile portrait a little more presence without crowding the bio. */
+.author__avatar {
+  width: 48px;
+}
+
+@media (min-width: 57.8125em) {
+  .author__avatar {
+    width: auto;
+  }
+
+  .author__avatar img {
+    max-width: 195px;
+  }
+}
