@@ -23,6 +23,12 @@
   outline-offset: 2px;
 }
 
+/* Keep the current-page navigation link refreshable and keyboard-accessible. */
+.masthead__menu-item.selected a {
+  pointer-events: auto;
+  cursor: pointer;
+}
+
 .page__content a,
 .archive a {
   overflow-wrap: anywhere;
