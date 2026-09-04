@@ -30,7 +30,7 @@ author_profile: true
 ## 2022
 
 - **Barsegyan, V.**, & Maas, I. “Educational Performance and Dropout of First-Generation Students in Russia: The Role of Parental Involvement and Cultural Capital.” European Consortium for Sociological Research Annual Conference, University of Amsterdam, the Netherlands, 6–8 July 2022. [Poster (PDF)]({{ "/publications/Barsegyan_Maas_FGS_Russia_Poster_ECSR_220704.pdf" | relative_url }}).
-- **Barsegyan, V.**, & Maas, I. “Educational Performance and Dropout of First-Generation Students in Russia: The Role of Parental Involvement and Cultural Capital.” RC28 Social Stratification Conference, London School of Economics and Political Science, United Kingdom, 21–23 April 2022. [Poster (PDF)]({{ "/publications/Barsegyan_Maas_FGS_Russia_Poster_3.pdf" | relative_url }}).
+- Barsegyan, V., & **Maas, I.** “Educational Performance and Dropout of First-Generation Students in Russia: The Role of Parental Involvement and Cultural Capital.” RC28 Social Stratification Conference, London School of Economics and Political Science, United Kingdom, 21–23 April 2022. [Poster (PDF)]({{ "/publications/Barsegyan_Maas_FGS_Russia_Poster_3.pdf" | relative_url }}).
 
 ## 2021
 
