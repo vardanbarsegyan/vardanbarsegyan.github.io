@@ -8,7 +8,7 @@ description: &description "Sociologist researching social inequality, migration,
 url: "https://www.vardanbarsegyan.com"
 baseurl: ""
 repository: "vardanbarsegyan/vardanbarsegyan.github.io"
-asset_version: "20260904b"
+asset_version: "20260904c"
 
 # Author profile
 author:
