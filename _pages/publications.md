@@ -74,16 +74,16 @@ author_profile: true
 ## Working papers / Preprints
 1. Barsegyan, V., Geenen, M. & Tamimy Z. (2026). Social Stratification and Mobility between Syrian refugees in the Netherlands – a Latent Transition Analysis of Ten-Year Panel Data. Working Paper.  
 
-1. Barsegyan, V., & Negash, S. (2026). (No) Longer Dependent: the Impact of Reception and Civic Integration Policies on Social Assistance Dependency Among Refugees in the Netherlands. R&R in *International Migration Review*. https://doi.org/10.31219/osf.io/ecjsn_v1.
+1. Barsegyan, V., & Negash, S. (2026). (No) Longer Dependent: the Impact of Reception and Civic Integration Policies on Social Assistance Dependency Among Refugees in the Netherlands. R&R in *International Migration Review*. [https://doi.org/10.31219/osf.io/ecjsn_v1](https://doi.org/10.31219/osf.io/ecjsn_v1).
 
 1. Barsegyan, V., Geenen, M., Otten, K., (2026). The Role of Host Family versus Municipal Accommodation in the Social Inclusion of Ukrainian Refugees in the Netherlands. R&R in the *Journal of International Migration and Integration*.  
 
 1. Otten, K., Barsegyan, V., Geenen, M. (2026). The Role of Housing in the Labor Market Participation of Ukrainian Refugees. Submitted to the *Journal of Refugee Studies*.  
 
-1. Otten, K., Negash, S.M., Maliepaard, M., Nooitgedagt, W., Barsegyan, V. (2025). How stricter asylum plans and exclusionary rhetoric influence the perceived social inclusion of refugees. Working paper. Preregistration. https://osf.io/raf2b/
+1. Otten, K., Negash, S.M., Maliepaard, M., Nooitgedagt, W., Barsegyan, V. (2025). How stricter asylum plans and exclusionary rhetoric influence the perceived social inclusion of refugees. Working paper. Preregistration. [https://osf.io/raf2b/](https://osf.io/raf2b/)
 
 1. Otten, K., Barsegyan, V., van Enk, B., Negash, S. M., Noyon, S., & Maliepaard, M. (2025, July 17). The diverse experiences and positions of Ukrainian refugees: evidence from a large representative survey in the Netherlands. Working paper. https://doi.org/10.31235/osf.io/yv6kz_v1
 
-1. Barsegyan, V.M. (2023). How Biased Is the Voice of People? Introducing The Political Voice Inequality Index (PVI-index). Working paper. https://doi.org/10.31235/osf.io/3gfes and https://www.vardanbarsegyan.com/pvi_index/ 
+1. Barsegyan, V.M. (2023). How Biased Is the Voice of People? Introducing The Political Voice Inequality Index (PVI-index). Working paper. [https://doi.org/10.31235/osf.io/3gfes](https://doi.org/10.31235/osf.io/3gfes) and [https://www.vardanbarsegyan.com/pvi_index/](https://www.vardanbarsegyan.com/pvi_index/) 
 
 1. Barsegyan V.M., Stienstra K., Knigge A., & Maas I. “Effects of Parental Compensation and Reinforcement on Within-Family Educational Inequality: Comparing Sibling, Non-Identical Twin and Identical Twin Samples”. Working paper.
