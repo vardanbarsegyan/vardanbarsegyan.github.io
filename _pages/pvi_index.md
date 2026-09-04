@@ -7,7 +7,7 @@ redirect_from:
   - /ippi_index/
 ---
 
-The **Political Voice Inequality Index (PVI Index)** measures how unequally political participation is distributed across social groups.
+The **Political Voice Inequality Index (PVI Index)** measures how unequally political participation is distributed across social groups. The preprint below explains the theoretical foundation, methodology, and interpretation of the index.
 
 ## Research and materials
 
@@ -20,8 +20,6 @@ Barsegyan, V. “A New Index of Political Inequality: The Joint Effect of Social
 ## Interactive maps
 
 The maps show the available estimates from 1984 through 2022 and were last generated on 18 October 2023. Select a year inside each map to explore changes over time.
-
-The maps require JavaScript. A downloadable data release is not currently available; the methodology paper explains the construction and interpretation of the index.
 
 - [Explore the world map]({{ "/publications/ipi_world_red_0.13.html" | relative_url }})
 - [Explore the Europe map]({{ "/publications/ipi_EU_red_0.4.html" | relative_url }})
