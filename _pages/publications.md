@@ -29,13 +29,6 @@ author_profile: true
 1.	Barsegyan V.M. (2014). Human Capital of Young Social and Political Activists – the Resource Approach. *Bulletin of the Immanuel Kant Baltic Federal University. Series: Humanities and Social Sciences*, 12, 153-164. [https://journals.kantiana.ru/vestnik/society/10614/53494](https://journals.kantiana.ru/vestnik/society/10614/53494).
 
 
-## Articles under review in peer-reviewed journals
-
-1. Barsegyan, V.M., Negash, S.M. (2026). (No) Longer Dependent: The Impact of Reception and Civic Integration Policies on Social Assistance Dependency Among Refugees in the Netherlands. R&R in *International Migration Review*. [Preprint](https://doi.org/10.31219/osf.io/ecjsn_v1).
-
-1. Barsegyan, V.M., Geenen, M., Otten, K. (2026). The Role of Host Family versus Municipal Accommodation in the Social Inclusion of Ukrainian Refugees in the Netherlands. R&R in *Journal of International Migration and Integration*.
-
-
 ## Public policy reports
 
 1. Noyon, S.M., Barsegyan, V.M., Vink, M.E., Pluymaekers, T.P.N. (2026). *Incidenten en misdrijven onder bewoners van COA- en gemeentelijke opvanglocaties 2019-2025* [Residents of COA and temporary municipal shelters charged with incidents or crimes in 2019-2025]. Den Haag: WODC. Cahier 2026-11. [WODC publication page](https://www.wodc.nl/actueel/nieuws/2026/07/02/overgrote-deel-van-asielmigranten-nog-nooit-verdacht-van-een-misdrijf).
