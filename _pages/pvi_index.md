@@ -9,11 +9,13 @@ redirect_from:
 
 The **Political Voice Inequality Index (PVI Index)** measures how unequally political participation is distributed across social groups.
 
-## Research
+## Research and materials
 
+This is the preprint: 
 Barsegyan, V. (2023, August 18). *How Biased Is the Voice of People? Introducing the Political Voice Inequality Index*. [Read the methodology paper](https://doi.org/10.31235/osf.io/3gfes).
 
-**Barsegyan, V.** “A New Index of Political Inequality: The Joint Effect of Social Characteristics on Political Participation—A Cross-National Longitudinal Study, 1980–2022.” European Survey Research Association General Conference, University of Milano-Bicocca, Milan, Italy, 17–21 July 2023. [Presentation (PDF)]({{ "/publications/V_Barsegyan_Pres_IPI_ESRA_Milan_230719.pdf" | relative_url }}).
+This is the presentation of the index at the ESRA conference in 2023:  
+Barsegyan, V. “A New Index of Political Inequality: The Joint Effect of Social Characteristics on Political Participation—A Cross-National Longitudinal Study, 1980–2022.” European Survey Research Association General Conference, University of Milano-Bicocca, Milan, Italy, 17–21 July 2023. [Presentation (PDF)]({{ "/publications/V_Barsegyan_Pres_IPI_ESRA_Milan_230719.pdf" | relative_url }}).
 
 ## Interactive maps
 
