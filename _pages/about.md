@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-My name is Vardan Barsegyan. I am a sociologist (PhD, 2016) conducting quantitative research on social inequality. I study the mechanisms that reproduce inequality in the contexts of stratification and mobility, migration, education, politics, and the justice system. I analyse large-scale survey and administrative data using R, Stata, Python, and Mplus.
+My name is Vardan Barsegyan. I am a sociologist (PhD, 2016) conducting quantitative research on social inequality. I study the mechanisms that reproduce inequality in the contexts of stratification and mobility, migration, education, politics, and the justice system. 
 
 I conduct rigorous, socially relevant research with potential policy impact.
+
+I analyse large-scale survey and administrative data using R, Stata, Python, and Mplus.
 
 I currently work as a [researcher in asylum and migration at the WODC Research and Data Centre](https://www.wodc.nl/personen/personen/vardan-barsegyan), the knowledge centre for justice and security in the Netherlands. From 2019 to 2023, I was a postdoctoral researcher in social inequality at the [Department of Sociology at Utrecht University](https://www.uu.nl/en/organisation/sociology).
 
