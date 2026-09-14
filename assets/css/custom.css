@@ -34,6 +34,32 @@
   overflow-wrap: anywhere;
 }
 
+/* Compact footer: preserve the text size and let narrow screens wrap naturally. */
+.page__footer footer {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.25rem 1rem;
+  margin-top: 0;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+
+/* The theme's float clearfix must not become an extra flex row. */
+.page__footer footer::after {
+  content: none;
+}
+
+.page__footer-follow {
+  flex-shrink: 0;
+}
+
+.page__footer-follow li {
+  margin-bottom: 0;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
 /* Keep the compact portrait on inner pages at mobile sizes. */
 .author__avatar {
   width: 90px;
