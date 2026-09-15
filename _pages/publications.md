@@ -60,6 +60,12 @@ author_profile: true
 1.	Latenko A., Vink M. E., Barsegyan V., Schans D., & van den Braak S. W. (2023). *Incidenten en misdrijven door bewoners van COA- en crisis-noodopvanglocaties 2017-2022 [Incidents and criminal activities involving residents of COA and crisis emergency shelter locations 2017-2022]*. Den Haag: WODC. Cahier 2023-10. [https://hdl.handle.net/20.500.12832/3273](https://hdl.handle.net/20.500.12832/3273).
 
 
+## Data and Methods Papers
+
+1. NSN wave 4 panel attrition analysis [in progress]
+
+1. LOCOV wave 1 and wave 2 panel attrition analysis [in progress]
+
 ## Peer-reviewed translations
 1. Van der Zeeuw, A., Keesman, L.D., Weenink, D. & Barsegyan, V.M. (2019). Социологизирование с Р. Коллинзом: интервью об эмоциях, насилии, пространствах внимания и социологии (Sociologiseren met R. Collins: interview over emoties, geweld, aandachtsvelden en sociologie). *Sotsiologicheskie issledovaniia* (Sociological research)(1), 40-51. [https://www.socis.isras.ru/files/File/2019/1/van_der_Zeeuw.pdf](https://www.socis.isras.ru/files/File/2019/1/van_der_Zeeuw.pdf).
 
