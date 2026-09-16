@@ -7,7 +7,9 @@ author_profile: true
 ---
 
 
-## Peer-reviewed articles
+<details class="publication-category" markdown="1">
+<summary><h2 id="peer-reviewed-articles">Peer-reviewed articles</h2></summary>
+
 1.	Barsegyan, V., & Maas, I. (2024). First-generation students’ educational outcomes: The role of parental educational, cultural, and economic capital—a nine-year panel study. *Research in Social Stratification and Mobility*, 91, 100939. [https://doi.org/10.1016/j.rssm.2024.100939](https://doi.org/10.1016/j.rssm.2024.100939).
 
 1.	Barsegyan, V., Knigge, A., & Maas, I. (2023). Social origin and political participation: Does education compensate for or reinforce family advantages and disadvantages? *Acta Politica*, 59, 340-363. [https://doi.org/10.1057/s41269-023-00296-5](https://doi.org/10.1057/s41269-023-00296-5).
@@ -28,8 +30,10 @@ author_profile: true
 
 1.	Barsegyan V.M. (2014). Human Capital of Young Social and Political Activists – the Resource Approach. *Bulletin of the Immanuel Kant Baltic Federal University. Series: Humanities and Social Sciences*, 12, 153-164. [https://journals.kantiana.ru/vestnik/society/10614/53494](https://journals.kantiana.ru/vestnik/society/10614/53494).
 
+</details>
 
-## Public policy reports
+<details class="publication-category" markdown="1">
+<summary><h2 id="public-policy-reports">Public policy reports</h2></summary>
 
 1. Barsegyan, V., Geenen, M., Tamimy, Z. (2026). Verborgen Verhalen: Sociale Stratificatie en Mobiliteit tussen Syrische Nederlanders op de lange termijn [Hidden Stories: Social Stratification and Mobility among Syrian-Dutch People in the Long Term] (pp. 56-77). In Nooitgedagt et al., *Tien jaar later. Ontwikkelingen in de maatschappelijke positie van Syrische vluchtelingen in Nederland [Ten years later. Developments in the social position of Syrian refugees in the Netherlands]*. Den Haag: WODC, Cahier 2026-13. [https://repository.wodc.nl/entities/publication/a7f220a7-8865-4072-a170-e7719d458813](https://repository.wodc.nl/entities/publication/a7f220a7-8865-4072-a170-e7719d458813).     
   
@@ -59,20 +63,34 @@ author_profile: true
 
 1.	Latenko A., Vink M. E., Barsegyan V., Schans D., & van den Braak S. W. (2023). *Incidenten en misdrijven door bewoners van COA- en crisis-noodopvanglocaties 2017-2022 [Incidents and criminal activities involving residents of COA and crisis emergency shelter locations 2017-2022]*. Den Haag: WODC. Cahier 2023-10. [https://hdl.handle.net/20.500.12832/3273](https://hdl.handle.net/20.500.12832/3273).
 
+</details>
 
-## Data and Methods Papers
+<details class="publication-category" markdown="1">
+<summary><h2 id="data-and-methods-papers">Data and Methods Papers</h2></summary>
 
 1. NSN wave 4 panel attrition analysis [in progress]
 
 1. LOCOV wave 1 and wave 2 panel attrition analysis [in progress]
 
-## Peer-reviewed translations
+</details>
+
+<details class="publication-category" markdown="1">
+<summary><h2 id="peer-reviewed-translations">Peer-reviewed translations</h2></summary>
+
 1. Van der Zeeuw, A., Keesman, L.D., Weenink, D. & Barsegyan, V.M. (2019). Социологизирование с Р. Коллинзом: интервью об эмоциях, насилии, пространствах внимания и социологии (Sociologiseren met R. Collins: interview over emoties, geweld, aandachtsvelden en sociologie). *Sotsiologicheskie issledovaniia* (Sociological research)(1), 40-51. [https://www.socis.isras.ru/files/File/2019/1/van_der_Zeeuw.pdf](https://www.socis.isras.ru/files/File/2019/1/van_der_Zeeuw.pdf).
 
-## PhD thesis
+</details>
+
+<details class="publication-category" markdown="1">
+<summary><h2 id="phd-thesis">PhD thesis</h2></summary>
+
 1. Barsegyan V.M. (2015). Political Activity of Youth as a Channel of Social Mobility in Contemporary Russian Society, Moscow, Russia (in Russian). [https://id.hse.ru/sci/diss/165404679](https://id.hse.ru/sci/diss/165404679).
 
-## Working papers / Preprints
+</details>
+
+<details class="publication-category" markdown="1">
+<summary><h2 id="working-papers--preprints">Working papers / Preprints</h2></summary>
+
 1. Barsegyan, V., Geenen, M. & Tamimy Z. (2026). Social Stratification and Mobility between Syrian refugees in the Netherlands – a Latent Transition Analysis of Ten-Year Panel Data. Working Paper.  
 
 1. Barsegyan, V., & Negash, S. (2026). (No) Longer Dependent: the Impact of Reception and Civic Integration Policies on Social Assistance Dependency Among Refugees in the Netherlands. R&R in *International Migration Review*. [https://doi.org/10.31219/osf.io/ecjsn_v1](https://doi.org/10.31219/osf.io/ecjsn_v1).
@@ -88,3 +106,5 @@ author_profile: true
 1. Barsegyan, V.M. (2023). How Biased Is the Voice of People? Introducing The Political Voice Inequality Index (PVI-index). Working paper. [https://doi.org/10.31235/osf.io/3gfes](https://doi.org/10.31235/osf.io/3gfes) and [https://www.vardanbarsegyan.com/pvi_index/](https://www.vardanbarsegyan.com/pvi_index/).
 
 1. Barsegyan V.M., Stienstra K., Knigge A., & Maas I. “Effects of Parental Compensation and Reinforcement on Within-Family Educational Inequality: Comparing Sibling, Non-Identical Twin and Identical Twin Samples”. Working paper.
+
+</details>
