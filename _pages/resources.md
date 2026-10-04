@@ -6,6 +6,10 @@ description: "Research tools, datasets, courses, journals, readings, and profess
 author_profile: true
 ---
 
+Research tools, datasets, courses, journals, readings, and professional associations curated by Vardan Barsegyan.
+
+Links were reviewed in September 2026.
+
 ## My resources
 
 - [Research tools]({{ "/resources/tools" | relative_url }}) — spreadsheets for literature reviews and research organisation.
@@ -18,5 +22,3 @@ author_profile: true
 - [Courses]({{ "/resources/courses" | relative_url }}) — online material for quantitative social science.
 - [Journals]({{ "/resources/journals" | relative_url }}) — journals in sociology, political science, and migration.
 - [Professional associations]({{ "/resources/associations" | relative_url }}) — academic networks and research associations.
-
-Links were reviewed in September 2026.
