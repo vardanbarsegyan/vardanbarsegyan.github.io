@@ -1,13 +1,13 @@
 ---
 permalink: /impact/
-title: "Societal impact"
+title: "Impact"
 description: "An anti-war statement by Russian and Russian-speaking sociologists and social scientists opposing the invasion of Ukraine."
 author_profile: true
 ---
 
 ## Anti-war statement against the Russian invasion of Ukraine
 
-In 2022, together with other Russian and Russian-speaking sociologists, I helped initiate a statement condemning the Russian invasion of Ukraine.
+In 2022, together with other Russian and Russian-speaking sociologists, I initiated a public statement condemning the Russian invasion of Ukraine.
 
 [Read or support the original Russian-language statement on Google Forms](https://docs.google.com/forms/d/e/1FAIpQLSdhX7m_c2SEiEqbTAcnz2DKba6WM-kBdo2RboQgklwP7hzBYQ/viewform){: .btn .btn--primary }
 

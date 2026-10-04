@@ -23,7 +23,115 @@
   outline-offset: 2px;
 }
 
+/* Keep the current-page navigation link refreshable and keyboard-accessible. */
+.masthead__menu-item.selected a {
+  pointer-events: auto;
+  cursor: pointer;
+}
+
 .page__content a,
 .archive a {
   overflow-wrap: anywhere;
+}
+
+/* Each publication category opens independently using native disclosure controls. */
+.publication-category {
+  margin: 1rem 0;
+  border-bottom: 1px solid var(--global-border-color);
+}
+
+.publication-category > summary {
+  padding: 0.75rem 0;
+  cursor: pointer;
+}
+
+.publication-category > summary h2 {
+  display: inline;
+  margin: 0;
+}
+
+.publication-category > summary::marker {
+  color: var(--global-link-color);
+}
+
+.publication-category > summary:focus-visible {
+  outline: 2px solid var(--global-link-color);
+  outline-offset: 4px;
+}
+
+/* Compact footer: preserve the text size and let narrow screens wrap naturally. */
+.page__footer footer {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.25rem 1rem;
+  margin-top: 0;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+
+/* The theme's float clearfix must not become an extra flex row. */
+.page__footer footer::after {
+  content: none;
+}
+
+.page__footer-follow {
+  flex-shrink: 0;
+}
+
+.page__footer-follow li {
+  margin-bottom: 0;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+/* Keep the compact portrait on inner pages at mobile sizes. */
+.author__avatar {
+  width: 90px;
+}
+
+/* Stack and enlarge the portrait on the mobile homepage only. */
+@media (max-width: 57.8124375em) {
+  .home-page .author__avatar:not(img) {
+    display: block;
+    width: min(360px, 100%);
+    margin: 0 auto 1rem;
+  }
+
+  .home-page .author__avatar img {
+    display: block;
+    width: 100%;
+    max-width: none;
+  }
+
+  .home-page .author__content,
+  .home-page .author__urls-wrapper {
+    display: block;
+  }
+
+  .home-page .author__content {
+    width: 100%;
+    padding-right: 0;
+    padding-left: 0;
+  }
+}
+
+@media (min-width: 57.8125em) {
+  .sidebar {
+    width: 27.9661016949%;
+  }
+
+  .page,
+  .archive {
+    width: 70.3389830502%;
+    padding-left: max(0px, calc(4.2372881356% - 1cm));
+  }
+
+  .author__avatar {
+    width: auto;
+  }
+
+  .author__avatar img {
+    max-width: 330px;
+  }
 }

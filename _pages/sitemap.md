@@ -10,7 +10,7 @@ author_profile: false
 - [Publications]({{ "/publications/" | relative_url }})
 - [Talks and presentations]({{ "/talks/" | relative_url }})
 - [Teaching]({{ "/teaching/" | relative_url }})
-- [Societal impact]({{ "/impact/" | relative_url }})
+- [Impact]({{ "/impact/" | relative_url }})
 - [Political Voice Inequality Index]({{ "/pvi_index/" | relative_url }})
 - [Resources]({{ "/resources/" | relative_url }})
   - [Data]({{ "/resources/data" | relative_url }})

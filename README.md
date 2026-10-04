@@ -31,6 +31,8 @@ bundle exec htmlproofer ./_site --disable-external
 
 The theme CSS is stored as compiled static files in `assets/css/`. JavaScript sources remain in `assets/js/`; after changing them, run `npm run build:js` and commit the regenerated `assets/js/main.min.js`.
 
+CI installs the locked npm dependencies, rebuilds the JavaScript, checks its syntax, and rejects a bundle that differs from the committed file. After building the Jekyll site, it also tests jQuery, navigation, resizing, the Follow menu, and theme switching in Chromium and WebKit. To run those browser checks locally, install `tests/requirements.txt` in a Python virtual environment, run `python -m playwright install chromium webkit`, and then run `python tests/browser_smoke.py _site`.
+
 The Political Voice Inequality maps share the locally hosted `assets/js/plotly-geo-3.6.0.min.js` bundle. This avoids an external runtime dependency and keeps the map pages much smaller than their former standalone exports.
 
 ## Deployment
@@ -39,7 +41,7 @@ The GitHub Actions workflow builds, checks, and deploys the site to GitHub Pages
 
 ## Privacy
 
-Google Analytics 4 is enabled through `_config.yml`. The societal-impact page links to a Google Form; submissions and Google’s handling of form data occur on Google’s service. The public privacy notice is in `_pages/terms.md`.
+Google Analytics 4 is enabled through `_config.yml`. The Impact page links to a Google Form; submissions and Google’s handling of form data occur on Google’s service. The public privacy notice is in `_pages/terms.md`.
 
 ## Credits and license
 
