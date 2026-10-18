@@ -93,7 +93,7 @@ author_profile: true
 
 1. **Barsegyan, V.**, Geenen, M. & Tamimy Z. (2026). Social Stratification and Mobility between Syrian refugees in the Netherlands – a Latent Transition Analysis of Ten-Year Panel Data. Working Paper.  
 
-1. **Barsegyan, V.**, & Negash, S. (2026). (No) Longer Dependent: the Impact of Reception and Civic Integration Policies on Social Assistance Dependency Among Refugees in the Netherlands. R&R in *International Migration Review*. [https://doi.org/10.31219/osf.io/ecjsn_v1](https://doi.org/10.31219/osf.io/ecjsn_v1).
+1. **Barsegyan, V.**, & Negash, S. (2026). (No) Longer Dependent: the Impact of Reception and Civic Integration Policies on Social Assistance Dependency Among Refugees in the Netherlands. R&R in *International Migration Review*. [https://doi.org/10.31219/osf.io/ecjsn_v2](https://doi.org/10.31219/osf.io/ecjsn_v2).
 
 1. **Barsegyan, V.**, Geenen, M., Otten, K., (2026). The Role of Host Family versus Municipal Accommodation in the Social Inclusion of Ukrainian Refugees in the Netherlands. R&R in the *Journal of International Migration and Integration*.  
 
