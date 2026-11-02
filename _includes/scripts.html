@@ -1,7 +1,7 @@
 <script type="module" src="{{ base_path }}/assets/js/main.min.js?v={{ site.asset_version }}"></script>
 
 <script>
-// Open page and document links in a new browsing context.
+/* Open page and document links in a new browsing context. */
 document.querySelectorAll('a[href]').forEach(function (link) {
   const href = link.getAttribute('href').trim();
   if (!href || href.charAt(0) === '#') return;
