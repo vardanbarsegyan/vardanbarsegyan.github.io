@@ -10,7 +10,7 @@ author_profile: true
 <details class="publication-category" markdown="1">
 <summary><h2 id="peer-reviewed-articles">Peer-reviewed articles</h2></summary>
 
-1. **Barsegyan, V.**, & Negash, S. M. (2026). (No) Longer Dependent: The Link between Reception, Housing, and Civic Integration Policies and Social Assistance Dependency among Refugees in the Netherlands. *International Migration Review*. https://doi.org/10.1177/01979183261504366
+1. **Barsegyan, V.**, & Negash, S. M. (2026). (No) Longer Dependent: The Link between Reception, Housing, and Civic Integration Policies and Social Assistance Dependency among Refugees in the Netherlands. *International Migration Review*. [https://doi.org/10.1177/01979183261504366](https://doi.org/10.1177/01979183261504366).
 
 1.	**Barsegyan, V.**, & Maas, I. (2024). First-generation students’ educational outcomes: The role of parental educational, cultural, and economic capital—a nine-year panel study. *Research in Social Stratification and Mobility*, 91, 100939. [https://doi.org/10.1016/j.rssm.2024.100939](https://doi.org/10.1016/j.rssm.2024.100939).
 
