@@ -10,6 +10,8 @@ author_profile: true
 <details class="publication-category" markdown="1">
 <summary><h2 id="peer-reviewed-articles">Peer-reviewed articles</h2></summary>
 
+1. **Barsegyan, V.**, & Negash, S. M. (2026). (No) Longer Dependent: The Link between Reception, Housing, and Civic Integration Policies and Social Assistance Dependency among Refugees in the Netherlands. *International Migration Review*. https://doi.org/10.1177/01979183261504366
+
 1.	**Barsegyan, V.**, & Maas, I. (2024). First-generation students’ educational outcomes: The role of parental educational, cultural, and economic capital—a nine-year panel study. *Research in Social Stratification and Mobility*, 91, 100939. [https://doi.org/10.1016/j.rssm.2024.100939](https://doi.org/10.1016/j.rssm.2024.100939).
 
 1.	**Barsegyan, V.**, Knigge, A., & Maas, I. (2023). Social origin and political participation: Does education compensate for or reinforce family advantages and disadvantages? *Acta Politica*, 59, 340-363. [https://doi.org/10.1057/s41269-023-00296-5](https://doi.org/10.1057/s41269-023-00296-5).
@@ -92,8 +94,6 @@ author_profile: true
 <summary><h2 id="working-papers--preprints">Working papers / Preprints</h2></summary>
 
 1. **Barsegyan, V.**, Geenen, M. & Tamimy Z. (2026). Social Stratification and Mobility between Syrian refugees in the Netherlands – a Latent Transition Analysis of Ten-Year Panel Data. Working Paper.  
-
-1. **Barsegyan, V.**, & Negash, S. (2026). (No) Longer Dependent: the Impact of Reception and Civic Integration Policies on Social Assistance Dependency Among Refugees in the Netherlands. R&R in *International Migration Review*. [https://doi.org/10.31219/osf.io/ecjsn_v2](https://doi.org/10.31219/osf.io/ecjsn_v2).
 
 1. **Barsegyan, V.**, Geenen, M., Otten, K., (2026). The Role of Host Family versus Municipal Accommodation in the Social Inclusion of Ukrainian Refugees in the Netherlands. R&R in the *Journal of International Migration and Integration*.  
 
